@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Centre de Données — Nexara</title>
+  <link rel="stylesheet" href="../../main.css" />
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" defer></script>
+</head>
+<body>
+
+  <header>
+    <h1>Centre de Données — Empire Nexara</h1>
+  </header>
+
+  <main>
+
+    <!-- VUE LISTE -->
+    <div id="vue-liste">
+      <div class="search-bar-container">
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Rechercher..."
+        />
+      </div>
+      <div id="liste-documents" class="liste-documents">
+        <p id="chargement">Chargement des documents…</p>
+      </div>
+    </div>
+
+    <!-- VUE LECTURE -->
+    <div id="vue-lecture" style="display:none;">
+      <button id="btn-retour" class="btn-retour">← Retour</button>
+      <div id="contenu-lecture" class="texte document-lecture"></div>
+    </div>
+
+  </main>
+
+  <footer>
+    <p>Oria Production</p>
+    <p>Empire Nexara · Archives internes</p>
+    <p>Accès non autorisé sanctionné par le Code Impérial</p>
+  </footer>
+
+  <script src="nexara.js"></script>
+
+</body>
+</html>

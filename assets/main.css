@@ -1,0 +1,167 @@
+/* === Balises principaux === */
+body {
+    background: linear-gradient(to bottom right, #AAAAAA, #666666);
+    background-attachment: fixed;
+    color: black;
+    line-height: 1.4;
+}
+
+main {
+    margin-inline: 2% auto;
+    padding-inline: 10rem;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  font-size: 1rem;
+}
+
+footer p:nth-of-type(2) {
+    font-size: 0.7rem;
+}
+
+footer p:nth-of-type(3) {
+    font-size: 0.6rem;
+}
+/* ======================================== */
+
+/* === Balises === */
+h1 {
+    color:#550000;
+    text-align: center;
+}
+
+main a {
+  text-decoration: none;
+  color: #000055;
+  transition: color 0.3s;
+}
+
+main a:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+/* ======================================== */
+
+/* === Classes === */
+.para {
+    margin-block: 2rem;
+    padding-inline: 1rem;
+    border: 5px solid #000000;
+}
+
+.texte {
+    margin-inline: 10rem;
+    padding: 2rem;
+    border: 2px solid #000000;
+    background-color: #AAAAAA;
+    font-style: italic;
+    font-size: large;
+}
+/* ======================================== */
+
+/* === Centre de données === */
+
+/* Barre de recherche */
+.search-bar-container {
+    margin-block: 1.5rem;
+}
+
+#search-input {
+    width: 100%;
+    padding: 0.6rem 1rem;
+    font-size: 1rem;
+    border: 2px solid #000000;
+    background-color: #AAAAAA;
+    color: #000000;
+    box-sizing: border-box;
+}
+
+#search-input:focus {
+    outline: none;
+    background-color: #c0c0c0;
+}
+
+/* Tags */
+.tag {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    font-size: 0.78rem;
+    background-color: #550000;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.tag:hover {
+    background-color: #000055;
+}
+
+/* Liste de documents */
+.liste-documents {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-block: 1rem;
+}
+
+/* Carte document */
+.carte-document {
+    padding: 0.8rem 1rem;
+    border: 5px solid #000000;
+    background-color: #AAAAAA;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.carte-document:hover {
+    background-color: #c0c0c0;
+}
+
+.carte-titre {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #550000;
+    margin-bottom: 0.3rem;
+}
+
+.carte-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    margin-bottom: 0.4rem;
+}
+
+.carte-apercu {
+    font-size: 0.9rem;
+    color: #222222;
+    font-style: italic;
+}
+
+/* Vue lecture — étend .texte */
+.document-lecture {
+    font-style: normal;
+}
+
+.lecture-tags {
+    margin-bottom: 1rem;
+}
+
+/* Bouton retour */
+.btn-retour {
+    display: inline-block;
+    margin-bottom: 1.2rem;
+    padding: 0.4rem 1rem;
+    background-color: #550000;
+    color: #ffffff;
+    border: none;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.btn-retour:hover {
+    background-color: #000055;
+}
+/* ======================================== */

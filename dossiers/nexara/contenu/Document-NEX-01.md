@@ -1,6 +1,6 @@
 ---
 title: Mission de l'empire
-tags: [Empire Nexara, Présentation, Accréditation L5]
+tags: [Empire Nexara, Présentation, Accréditation L5, Haut conseil]
 ---
 
 # Attention: Document classifié level 5 !

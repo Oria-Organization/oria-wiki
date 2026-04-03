@@ -96,7 +96,6 @@ function afficherListe(docs) {
       <div class="carte-apercu">${escapeHtml(doc.apercu)}${doc.apercu.length >= 280 ? "…" : ""}</div>
     `;
 
-    // Clic sur un tag → recherche par tag
     carte.querySelectorAll(".tag").forEach(tagEl => {
       tagEl.addEventListener("click", (e) => {
         e.stopPropagation();
@@ -105,7 +104,6 @@ function afficherListe(docs) {
       });
     });
 
-    // Clic sur la carte → lecture
     carte.addEventListener("click", () => ouvrirDocument(doc));
 
     conteneur.appendChild(carte);
@@ -146,11 +144,27 @@ function ouvrirDocument(doc) {
         `<span class="tag">${escapeHtml(t)}</span>`).join("")}</div>`
     : "";
 
+  // Remplacement des liens wiki [[ID]] → liens cliquables
+  const corpsAvecLiens = doc.corps.replace(/\[\[([^\]]+)\]\]/g, (match, id) => {
+    return `<a href="#" class="lien-wiki" data-doc="Document-${id}.md">${id}</a>`;
+  });
+
   document.getElementById("contenu-lecture").innerHTML =
     `<h1>${escapeHtml(doc.title)}</h1>` +
     tagsHtml +
     `<hr>` +
-    marked.parse(doc.corps);
+    marked.parse(corpsAvecLiens);
+
+  // Activation des liens wiki
+  document.querySelectorAll(".lien-wiki").forEach(lien => {
+    lien.addEventListener("click", (e) => {
+      e.preventDefault();
+      const nomFichier = lien.dataset.doc;
+      const cible = tousLesDocuments.find(d => d.nom === nomFichier);
+      if (cible) ouvrirDocument(cible);
+      else alert("Document introuvable : " + nomFichier);
+    });
+  });
 
   window.scrollTo({ top: 0, behavior: "smooth" });
 }

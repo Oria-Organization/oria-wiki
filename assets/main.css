@@ -33,6 +33,11 @@ h1 {
     text-align: center;
 }
 
+hr {
+    border: 1px solid #000000;
+}
+
+/* lien */
 main a {
   text-decoration: none;
   color: #000055;

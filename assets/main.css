@@ -160,6 +160,12 @@ main a:hover {
 /* Vue lecture — étend .texte */
 .texte.document-lecture {
     font-style: normal;
+    margin-inline: 2rem;
+}
+
+.document-lecture img {
+    max-width: 100%;
+    height: auto;
 }
 
 .lecture-tags {

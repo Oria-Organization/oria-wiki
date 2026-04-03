@@ -1,8 +1,8 @@
 // nexara.js — Centre de données Nexara
 // Dépendance : marked.js (chargé via CDN dans nexara.html)
 
-const INDEX_URL = "contenu/index.json";
-const CONTENU_URL = "contenu/";
+const INDEX_URL = "https://raw.githubusercontent.com/oria-organization/oria-wiki/main/dossiers/nexara/contenu/index.json";
+const CONTENU_URL = "https://raw.githubusercontent.com/oria-organization/oria-wiki/main/dossiers/nexara/contenu/";
 
 let tousLesDocuments = [];
 let derniereRecherche = "";

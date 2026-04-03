@@ -2,6 +2,7 @@
 body {
     background: linear-gradient(to bottom right, #AAAAAA, #666666);
     background-attachment: fixed;
+
     color: black;
     line-height: 1.4;
 }
@@ -48,14 +49,17 @@ main a:hover {
 .para {
     margin-block: 2rem;
     padding-inline: 1rem;
+
     border: 5px solid #000000;
 }
 
 .texte {
     margin-inline: 10rem;
     padding: 2rem;
+
     border: 2px solid #000000;
     background-color: #AAAAAA;
+
     font-style: italic;
     font-size: large;
 }
@@ -70,11 +74,15 @@ main a:hover {
 
 #search-input {
     width: 100%;
+
     padding: 0.6rem 1rem;
+
     font-size: 1rem;
+    color: #000000;
+
     border: 2px solid #000000;
     background-color: #AAAAAA;
-    color: #000000;
+
     box-sizing: border-box;
 }
 
@@ -86,16 +94,19 @@ main a:hover {
 /* Tags */
 .tag {
     display: inline-block;
+
     padding: 0.15rem 0.5rem;
     font-size: 0.78rem;
-    background-color: #550000;
+
+    background-color: #220000;
     color: #ffffff;
+
     cursor: pointer;
     transition: background-color 0.2s;
 }
 
 .tag:hover {
-    background-color: #000055;
+    background-color: #440000;
 }
 
 /* Liste de documents */
@@ -109,8 +120,10 @@ main a:hover {
 /* Carte document */
 .carte-document {
     padding: 0.8rem 1rem;
+
     border: 5px solid #000000;
     background-color: #AAAAAA;
+
     cursor: pointer;
     transition: background-color 0.2s;
 }
@@ -153,7 +166,7 @@ main a:hover {
     display: inline-block;
     margin-bottom: 1.2rem;
     padding: 0.4rem 1rem;
-    background-color: #550000;
+    background-color: #220000;
     color: #ffffff;
     border: none;
     font-size: 0.95rem;
@@ -162,6 +175,6 @@ main a:hover {
 }
 
 .btn-retour:hover {
-    background-color: #000055;
+    background-color: #440000;
 }
 /* ======================================== */

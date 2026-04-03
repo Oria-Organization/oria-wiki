@@ -144,16 +144,17 @@ function ouvrirDocument(doc) {
         `<span class="tag">${escapeHtml(t)}</span>`).join("")}</div>`
     : "";
 
-  // Remplacement des liens wiki [[ID]] → liens cliquables
-  const corpsAvecLiens = doc.corps.replace(/\[\[([^\]]+)\]\]/g, (match, id) => {
-    return `<a href="#" class="lien-wiki" data-doc="Document-${id}.md">${id}</a>`;
-  });
+const corpsHtml = marked.parse(doc.corps);
 
-  document.getElementById("contenu-lecture").innerHTML =
+const corpsAvecLiens = corpsHtml.replace(/\[\[([^\]]+)\]\]/g, (match, id) => {
+    return `<a href="#" class="lien-wiki" data-doc="Document-${id}.md">${id}</a>`;
+});
+
+document.getElementById("contenu-lecture").innerHTML =
     `<h1>${escapeHtml(doc.title)}</h1>` +
     tagsHtml +
     `<hr>` +
-    marked.parse(corpsAvecLiens);
+    corpsAvecLiens;
 
   // Activation des liens wiki
   document.querySelectorAll(".lien-wiki").forEach(lien => {

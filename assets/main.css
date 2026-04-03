@@ -160,7 +160,7 @@ main a:hover {
 /* Vue lecture — étend .texte */
 .texte.document-lecture {
     font-style: normal;
-    margin-inline: 2rem;
+    margin: 0%;
 }
 
 .document-lecture img {

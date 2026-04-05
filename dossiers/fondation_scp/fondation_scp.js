@@ -1,5 +1,5 @@
-// nexara.js — Centre de données Nexara
-// Dépendance : marked.js (chargé via CDN dans nexara.html)
+// fondation_scp.js — Centre de Données — Fondation SCP
+// Dépendance : marked.js (chargé via CDN dans fondation_scp.html)
 
 const INDEX_URL = "contenu/index.json";
 const CONTENU_URL = "contenu/";

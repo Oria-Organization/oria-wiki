@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Centre de Données — Fondation SCP</title>
+    <link rel="icon" type="image/png" href="../../images/logo/nexara-logo-cercle.png">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="../../assets/main.css" />
+    
+    <script src="nexara.js" defer></script>
+  </head>
+  <body>
+    <header>
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../nexara/nexara.html">Centre de données - Empire Nexara</a></li>
+        <li class="bloc">
+        <a class="active" class="bloc_base">Organisation de l'empire</a>
+        <div class="bloc-interne">
+          <a class="active" href="dossiers/fondation_scp/fondation_scp.html">Centre de données - Fondation SCP</a>
+        </div>
+      </li>
+    </header>
+    
+    <main>
+      <h1>Centre de Données — Fondation SCP</h1>
+
+      <!-- VUE LISTE -->
+      <div id="vue-liste">
+        <div class="search-bar-container">
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Rechercher..."
+          />
+        </div>
+        <div id="liste-documents" class="liste-documents">
+          <p id="chargement">Chargement des documents classifés…</p>
+        </div>
+      </div>
+
+      <!-- VUE LECTURE -->
+      <div id="vue-lecture" style="display:none;">
+        <button id="btn-retour" class="btn-retour">← Retour</button>
+        <div id="contenu-lecture" class="texte document-lecture"></div>
+      </div>
+    </main>
+
+    <footer>
+      <p>© 2025/2026 Oria - Empire Nexara</p>
+      <p>Contact: mondeoria.official@gmail.com</p>
+      <p>Version 0.0.0.0</p>
+    </footer>
+  </body>
+</html>

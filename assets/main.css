@@ -188,7 +188,7 @@ main a:hover {
 .texte.document-lecture {
     font-style: normal;
     margin: 0%;
-    text-align: none;
+    text-align: right;
 }
 
 .document-lecture img {

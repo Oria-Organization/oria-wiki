@@ -1,8 +1,8 @@
 // fondation_scp.js — Centre de Données — Fondation SCP
 // Dépendance : marked.js (chargé via CDN dans fondation_scp.html)
 
-const INDEX_URL = "contenu/index.json";
-const CONTENU_URL = "contenu/";
+const INDEX_URL = "https://raw.githubusercontent.com/oria-organization/oria-wiki/main/dossiers/fondation_scp/contenu/index.json";
+const CONTENU_URL = "https://raw.githubusercontent.com/oria-organization/oria-wiki/main/dossiers/fondation_scp/contenu/";
 
 let tousLesDocuments = [];
 let derniereRecherche = "";

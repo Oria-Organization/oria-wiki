@@ -1,9 +1,9 @@
 ---
 title: Gigantisme
-tags: [Maladie, Gigantisme, Information]
+tags: [gigantisme, maladie]
 ---
 
--> Date: 03/04/678<br>
+-> Date: le 09 août 678<br>
 -> Numéro du document: NEX-HIS-02-INFO<br>
 
 ## Définitions du gigantisme
@@ -16,3 +16,6 @@ L’espérance de vie dépassait 40 ans, mais la vie restait difficile en raison
 ## Information supplémentaire
 Nous avons pû retrouver des informations supplémentaires sur le gigantisme.<br>
 L'organisation secrète impérial du département des recherches ont fait des expériences sur cette anomalie et ont pû le reproduire, le reste de ces informations sont classés L3.
+<br>
+---<br>
+Mis à jour le 05 avril 2026.

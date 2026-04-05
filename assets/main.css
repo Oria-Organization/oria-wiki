@@ -5,6 +5,7 @@ body {
 
     color: black;
     line-height: 1.4;
+    font-size: 1.25rem;
 }
 
 main {
@@ -39,14 +40,39 @@ hr {
 
 /* lien */
 main a {
-  text-decoration: none;
-  color: #000055;
-  transition: color 0.3s;
+    text-decoration: none;
+    color: #000055;
+    transition: color 0.3s;
 }
 
 main a:hover {
-  text-decoration: underline;
-  color: #ffffff;
+    text-decoration: underline;
+    color: #ffffff;
+}
+
+.lien-nothing a {
+    text-decoration: none;
+    color: black;
+}
+
+.bouton{
+    text-align: center;
+}
+
+.bouton a{
+    border: 2px solid #000000;
+    background-color: #AAAAAA;
+
+    padding: 1rem;
+
+    text-align: center;
+}
+
+.bouton a:hover{
+    border: 2px solid #000000;
+    background-color: #ffffff;
+
+    color: #000000;
 }
 /* ======================================== */
 
@@ -67,6 +93,7 @@ main a:hover {
 
     font-style: italic;
     font-size: large;
+    text-align: center;
 }
 /* ======================================== */
 
@@ -161,6 +188,7 @@ main a:hover {
 .texte.document-lecture {
     font-style: normal;
     margin: 0%;
+    text-align: none;
 }
 
 .document-lecture img {
@@ -189,3 +217,69 @@ main a:hover {
     background-color: #440000;
 }
 /* ======================================== */
+
+/* === Barre de navigation === */
+header {
+    list-style-type: none; /* Pour éviter d'avoir des puces */
+    flex-wrap: wrap; /* Adaptation */
+
+    display: flex;
+    top: 0;
+    position: sticky;
+
+    background-color: #0b0b0b;
+}
+
+header li a {
+    display: block;
+
+    color: white;
+    font-family: 'Marcellus', serif;
+    text-decoration: none;
+
+    padding: 14px 16px;
+}
+
+header li a:hover:not(.active) {
+    background-color: #1b1b1b; /* Couleur quand la souris passe dessus */
+}
+
+header li a.active {
+    background-color: #440000; /* Couleur de celle active */
+}
+
+/* Menu déroulant */
+.bloc_base {
+    color: white;
+    font-family: 'Marcellus', serif;
+
+    padding: 14px 16px;
+    border: none;
+
+    cursor: pointer; /* Curseur en forme de main */
+}
+
+.bloc-interne {
+    background-color: #0b0b0b;
+
+    display: none; /* Caché par défaut */
+    position: absolute; 
+
+    min-width: 200px;
+}
+
+.bloc-interne a {
+    color: white; 
+    text-decoration: none;
+
+    display: block;   /* Affichage en bloc pour prendre toute la largeur */
+}
+
+.bloc:hover .bloc-interne {
+    display: block; /* Affiche le menu au survol */
+}
+
+.bloc:hover .bloc_base {
+    background-color: #1b1b1b;
+}
+/* ============================================= */

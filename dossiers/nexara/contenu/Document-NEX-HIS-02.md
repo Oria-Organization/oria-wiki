@@ -1,12 +1,7 @@
 ---
 title: Génocide du gigantisme
-tags: [génocide, gigantisme, préhistoire]
+tags: [Génocide, Gigantisme, Préhistoire]
 ---
-
--> Date: le 03 avril 678<br>
--> Numéro du document: NEX-HIS-02<br>
--> Document rédigé par un historien pour les cours d'histoire<br>
-
 ## La cause du génocide
 Le génocide de -355 à -255 fut causé par une anomalie humaine appelée Le Gigantisme, éradiquée vers -255.<br>
 Cette anomalie touchait 1,28 % de la population avant l’an -358. Les royaumes durent adapter logements et besoins alimentaires. La population affectée fut discriminée, ce qui entraîna sa persécution.
@@ -17,7 +12,6 @@ Certains royaumes décidèrent de l’éradiquer ou de la réduire en esclavage,
 La période la plus violente de l’histoire survint alors, et la population fut éradiquée vers -255, sans survivants.
 
 ## Source
-Pour d'autre information sur le gigantisme, rendez vous sur le Document [[NEX-HIS-02-INFO]].
-<br>
----<br>
-Mis à jour le 05 avril 2026.
+Pour d'autre information sur le gigantisme, rendez vous sur le document [[NEX-HIS-GIGAN]].
+<hr>
+Créer le 06 avril 2026.

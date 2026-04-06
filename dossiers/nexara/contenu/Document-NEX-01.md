@@ -1,19 +1,14 @@
 ---
-title: Mission de l'empire
-tags: [présentation, accréditation L5, haut conseil]
+title: Archives - Création de l'empire
+tags: [Empire Nexara, Archives, Création]
 ---
 
-# Attention: Document classifié CENSURED !
-<br>
--> Date: le 03 avril<br>
--> Numéro de document: NEX-01<br>
--> Auteur: <i>Inconnu</i><br>
+Date: 01 mois-A 24 330.<br>
+Numéro du document: NEX-01.
 <hr>
-&nbsp;&nbsp;&nbsp;&nbsp;Le but de notre empire est bien plus profonde, avec nos années d'histoire nous n'avons qu'un seul but, faire évoluer cette population pour notre devoir, le secret qui cache ce monde et que seulement nous, membres du Haut conseil, connaisse, et qui permettrai de régner plus puissant que nous le faisons aujourd'hui.<br>
-Nous renoncerons en rien pour le faire et nous écrirons cette histoire à travers nos récit.<br>
-HC-1.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;La création d'un empire démocratique est important. L'empereur, fondateur de cette nation se doit de garder le pouvoir pour l'éternité. Ainsi nous, membres du haut conseil de la nation, accordons tout les droits à l'empereur par la constitution impérial décrété dans le document [[NEX-CONS-IMP]] que nous créerons.<br>
+Le but de cette empire, et elle le restera, est de créer un peuple puissant, autonomme et libre, tout acte montrant une contradiction dans ce dessein, devra avoir la peine capitale.<br>
+De plus, le haut conseil, restera une puissance hiérarchique la plus élevé dans cette empire démocratique, avec le pouvoir de ce jouer de la constitution impériale par des votes majoritaire. Nos 24 000 années d'histoire transformerons notre république en empire puissant.<br>
+Membre du haut conseil n°1.
 <hr>
-Les documents que vous trouverez sont écrit ou recopier par le narrateur lui même, ou plutôt █'█████████████.
-<br>
----<br>
-Mis à jour le 05 avril 2026.
+Créer le 06 avril 2026.

@@ -12,7 +12,7 @@ Numéro du document: NEX-CONS-IMP.
 ### Article 2: Le pouvoir impérial.
 - Article 2-1: L’empereur exerce un pouvoir exécutif, législatif et judiciaire.
 - Article 2-2: L’empereur peut être révoqués de son pouvoir par le haut conseil qui devras être voter par une majorité.
-- Article 2-3: L’empereur peut modifier, supprimé la vonstitution national de l’empire.
+- Article 2-3: L’empereur peut modifier, supprimé la constitution national de l’empire.
 - Article 2-4: L’empereur peut choisir, viré ou révoquée des membres du haut conseil, mais ne peut en aucun cas dissoudre tout le haut conseil ou diminuer son nombre total qui est de 5.
 ### Article 3: Descendance du pouvoir.
 - Article 3-1: Le pouvoir impérial ne peut être donnée qu’aux membre de la famille impérial.

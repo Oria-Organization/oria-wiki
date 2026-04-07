@@ -1,9 +1,9 @@
 ---
-title: Génocide du gigantisme
+title: Résumé - Génocide du gigantisme
 tags: [Génocide, Gigantisme, Préhistoire]
 ---
 ## La cause du génocide
-Le génocide de -355 à -255 fut causé par une anomalie humaine appelée Le Gigantisme, éradiquée vers -255.<br>
+Le génocide de -355 à -255 est causé par une anomalie humaine appelée Le Gigantisme, éradiquée vers -255.<br>
 Cette anomalie touchait 1,28 % de la population avant l’an -358. Les royaumes durent adapter logements et besoins alimentaires. La population affectée fut discriminée, ce qui entraîna sa persécution.
 
 ## Conséquence

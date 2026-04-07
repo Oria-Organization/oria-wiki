@@ -17,5 +17,5 @@ Le site-01 est composer de 3 secteurs, le premier secteur, étant les défenses 
 Les anciennes cellules de confinement des anomalies ont été rénovées pour les activités du personnel, tels que une salle de réunion, et même une salle de jeux.<br>
 Seulement les membres du "Haut commandemant" connaissent l'emplacement des salles classifiés, tels que la salle des serveurs et des archives.
 <hr>
-Créer le 05 avril 2026.
+Créé le 05 avril 2026.
 Mis à jour le 06 avril 2026.

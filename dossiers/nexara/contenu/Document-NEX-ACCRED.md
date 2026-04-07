@@ -18,4 +18,5 @@ Les accréditations permettent de sécuriser des documents ou zones censées êt
 - Classification REDACTED: Ce niveau de classification est seulement autoriser à être lu par un niveau d'accréditation L4 minimum.
 - Classification CENSURED: Ce niveau de classification empèche la lecture par tout citoyens possédant quelconques accréditation, appart ceux ayant l'accréditation `[Censurée]`.
 <hr>
-Créer le 06 avril 2026.
+Créé le 06 avril 2026.
+Mis à jour le 07 avril 2026.

@@ -12,4 +12,5 @@ Le but de cette empire, et elle le restera, est de créer un peuple puissant, au
 De plus, le haut conseil, restera une puissance hiérarchique la plus élevé dans cette empire démocratique, avec le pouvoir de ce jouer de la constitution impériale par des votes majoritaire. Nos 24 000 années d'histoire transformerons notre république en empire puissant.<br>
 Membre du haut conseil n°1.
 <hr>
-Créer le 06 avril 2026.
+Créé le 06 avril 2026.
+Mis à jour le 07 avril 2026.

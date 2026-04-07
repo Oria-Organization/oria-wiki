@@ -13,4 +13,5 @@ L’espérance de vie dépassait 40 ans, mais la vie restait difficile en raison
 Nous avons pû retrouver des informations supplémentaires sur le gigantisme.<br>
 L'organisation secrète impérial du département des recherches ont fait des expériences sur cette anomalie et ont pû le reproduire, le reste de ces informations sont classés "Top Secret".
 <hr>
-Créer le 06 avril 2026.
+Créé le 06 avril 2026.
+Mis à jour le 07 avril 2026.

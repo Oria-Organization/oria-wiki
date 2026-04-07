@@ -7,4 +7,4 @@ C'est pour ceci que aujourd'hui, le 26 du mois-Y de l'années 6 158, nous devron
 Notre plan est simple, demandons au commandant en chef de l'unité "Oméga-30" de `[Supprimées]`.<br>
 Membre du haut conseil n°5.
 <hr>
-Créer le 06 avril 2026.
+Créé le 06 avril 2026.

@@ -14,4 +14,5 @@ La période la plus violente de l’histoire survint alors, et la population fut
 ## Source
 Pour d'autre information sur le gigantisme, rendez vous sur le document [[NEX-HIS-GIGAN]].
 <hr>
-Créer le 06 avril 2026.
+Créé le 06 avril 2026.
+Mis à jour le 07 avril 2026.

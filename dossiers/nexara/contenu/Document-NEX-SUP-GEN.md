@@ -18,4 +18,5 @@ Sujet du vote: Suppresion des personnes pouvant transmettre des maladies génét
 - Membre du haut conseil n°4: Neutre
 - Membre du haut conseil n°5: pour
 <hr>
-Créer le 06 avril 2026.
+Créé le 06 avril 2026.
+Mis à jour le 07 avril 2026.

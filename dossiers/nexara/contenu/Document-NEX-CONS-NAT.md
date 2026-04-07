@@ -14,4 +14,4 @@ Numéro du document: NEX-CONS-NAT.
 - Article 6: Toute personne humaine, hommes et femmes sont citoyens par les droits du sang.
 - Article 7: Chaque citoyens peuvent participer au vote démocratique.
 <hr>
-Créer le 6 avril 2026.
+Créé le 6 avril 2026.

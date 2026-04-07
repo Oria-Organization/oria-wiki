@@ -103,4 +103,4 @@ Exemple conforme :
 - [ ] L'orthographe a été vérifiée, en particulier pour les documents juridiques et officiels
 
 <hr>
-Créer le 07 avril 2026.
+Créé le 07 avril 2026.

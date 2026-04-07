@@ -14,4 +14,4 @@ Une directives que l'empire a pris dès l'années 282 afin de mieux organiser le
 - Classe Bêta: Les citoyens ayant cette classe sont plus évolué intellectuellement que la moyenne, avec un QI supérieur à 65.
 - Classe Alpha: Les citoyens les plus avancés intellectuellement avec leurs moyennes supérieur à 90.
 <hr>
-Créer le 06 avril 2026.
+Créé le 06 avril 2026.

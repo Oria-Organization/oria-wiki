@@ -22,4 +22,5 @@ Numéro du document: NEX-CONS-IMP.
 - Articles 4-1: Seulement en cas d’extrême nécessité, l’empereur peut changer le régime, par l’accord du peuple, et révoqué temporairement le haut conseil si celui-ci abuse de ses droits.
 - Articles 4-2: L’empereur peut demander à changer la constitution impériale avec la demande du peuple, et l’accord en majorité du haut conseil, le changement de la constitution impérial peut se faire si, tout le peuple accepte le changement sans l’accord obligatoire du haut conseil.
 <hr>
-Créer le 06 avril 2026.
+Créé le 06 avril 2026.
+Mis à jour le 07 avril 2026.

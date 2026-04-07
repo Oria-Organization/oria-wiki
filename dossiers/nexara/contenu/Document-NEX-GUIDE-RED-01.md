@@ -81,7 +81,7 @@ Exemple conforme :
  
 ## VI — Nomenclature des documents
  
-&nbsp;&nbsp;&nbsp;&nbsp;Tout document soumis au centre des données doit respecter la nomenclature suivante (obligatoire à faire pour le nom du fichier et non obligatoire dans le contenu):
+&nbsp;&nbsp;&nbsp;&nbsp;Tout document soumis au centre des données doit respecter la nomenclature suivante (obligatoire à faire pour le nom du document et non obligatoire dans le contenu):
  
 - `NEX-` → Empire Nexara
 - `NEX-"Contenu"-` → Sujet

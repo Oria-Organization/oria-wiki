@@ -5,6 +5,7 @@ tags: [Classifications, Accréditations, Information]
 ## Utilité des accréditations
 Les accréditations permettent de sécuriser des documents ou zones censées être restreint aux publics par des classifications, elle sont numéroté de 0 à 5.
 <br>
+
 - Accréditation L0: Accréditation de base, et permet l'accès à tout les documents non classifier.
 - Accréditation L1: Même niveau d'accès qu'une accréditation de niveau L0, donc un accès à tout les documents non classifier. Ce niveau est seulement accordés et donner aux membres citoyens de l'empire.
 - Accréditation L2: Cette accréditation donne accès aux documents et aux archives classifier, qui sont des documents sur les fonds économiques, les informations des citoyens et tout ceux qui aide à la vie politique.

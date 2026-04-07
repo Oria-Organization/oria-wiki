@@ -5,6 +5,7 @@ tags: [Constitution, Empire Nexara, National]
 Date de création: 16 mois-R 211.<br>
 Numéro du document: NEX-CONS-NAT.
 <hr>
+
 - Article 1: Tout citoyens est égaux entre eux, sans distinction à l’apparence physique et de tout autre façon.
 - Article 2: Tout citoyens est libre tant qu’ils ne nuisent pas aux autres.
 - Article 3: Aucune croyance ne peut devenir une religion, donc possédé des lieux, symboles qui la représente.

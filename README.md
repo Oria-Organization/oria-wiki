@@ -31,7 +31,7 @@ Oria n’est pas seulement une histoire à lire, c’est un monde vivant, où ch
 
 ## Structure du REPO
 ```
-Oria-Lore/
+Oria-wiki/
 ├── README.md
 ├── index.html
 ├── assets/
@@ -54,6 +54,7 @@ Oria-Lore/
     │       └── gigantisme-taille.png
     └── logo/
         ├── nexara-logo-cercle.png
+        ├── oria_production.png
         └── nexara-logo.png
 ```
 

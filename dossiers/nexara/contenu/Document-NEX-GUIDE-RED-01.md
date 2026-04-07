@@ -1,12 +1,12 @@
 ---
 title: Pour la rédaction des documents
-tags: [Guide, Rédaction, Documents, Empire Nexara, Archives Impériales]
+tags: [Guide, Rédaction, Centre des données]
 ---
  
 Numéro du document: NEX-GUIDE-RED-01.<br>
 Auteur: Responsable du centre de données.<br>
 <hr>
-&nbsp;&nbsp;&nbsp;&nbsp;Ce document a été rédigé à l'intention des citoyens souhaitant contribuer à la rédaction des archives officielles de l'Empire Nexara. Toute contribution doit respecter les directives ci-dessous afin de garantir la cohérence, la crédibilité et la dignité des documents.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Ce document a été rédigé à l'intention des citoyens souhaitant contribuer à la rédaction du centre des données officiels de l'Empire Nexara. Toute contribution doit respecter les directives ci-dessous afin de garantir la cohérence, la crédibilité et la dignité des documents.<br>
 Tout document soumis ne respectant pas ces directives sera refusé ou supprimé du centre des données sans préavis.
  
 ## I — Ce qu'est un document du centre des données de l'empire
@@ -60,12 +60,13 @@ Le rédacteur semble neutre mais choisit ce qu'il mentionne ou omet selon les in
 Les conventions suivantes sont **obligatoires** pour matérialiser toute information manquante :
  
 - `[Supprimé]` — Information effacée après rédaction
-- `[Censurées]` — Information existante mais inaccessible à ce niveau d'accréditation
+- `[Censurée]` — Information existante mais inaccessible à ce niveau d'accréditation
 - `[Non disponible]` — Document référencé mais introuvable dans les archives
 - `[Inconnu]` — Information jamais consignée
 - `██████` — Identité ou donnée masquée dans les documents officiels
  
-&nbsp;&nbsp;&nbsp;&nbsp;Toute absence d'information doit être **volontaire et matérialisée**. Un vide non justifié sera interprété comme une erreur de rédaction et non comme une censure.
+&nbsp;&nbsp;&nbsp;&nbsp;Toute absence d'information doit être **volontaire et matérialisée**. Un vide non justifié sera interprété comme une erreur de rédaction et non comme une censure.<br>
+Vous pouvez bien évidemment prendre d'autres contenus autres que ceux proposer ci dessus dans qu'il reste entre `["Contenu"]`.
  
 ## V — Cohérence temporelle
  

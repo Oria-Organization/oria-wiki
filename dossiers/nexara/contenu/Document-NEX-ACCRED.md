@@ -11,11 +11,11 @@ Les accréditations permettent de sécuriser des documents ou zones censées êt
 - Accréditation L2: Cette accréditation donne accès aux documents et aux archives classifier, qui sont des documents sur les fonds économiques, les informations des citoyens et tout ceux qui aide à la vie politique.
 - Accréditation L3: Les citoyens ayant ce niveau d'accréditation représente un niveau hiérarchique important, elle donne accès à tout les informations militaires, stratégiques, scientifiques, et parfois classer top secret pour le grand public.
 - Accréditation L4: Ce niveau d'accréditation donne accès à toutes les informations classifier, top secret, confidentiel. Les citoyens possédant cette accréditation sont rares.
-- Accréditation [Censurée]: Ce niveau d'accréditation et synonyme de droit "Administrateur" sur l'empire, et possède tout les informations relatives à celle ci.
+- Accréditation `[Censurée]`: Ce niveau d'accréditation et synonyme de droit "Administrateur" sur l'empire, et possède tout les informations relatives à celle ci.
 
 ## Classification
 - Classification TOP SECRET: Ce niveau de classification le moins important peut être seulement lu par des citoyens ayant une accréditation L3 minimum.
 - Classification REDACTED: Ce niveau de classification est seulement autoriser à être lu par un niveau d'accréditation L4 minimum.
-- Classification CENSURED: Ce niveau de classification empèche la lecture par tout citoyens possédant quelconques accréditation, appart ceux ayant l'accréditation [Censurée].
+- Classification CENSURED: Ce niveau de classification empèche la lecture par tout citoyens possédant quelconques accréditation, appart ceux ayant l'accréditation `[Censurée]`.
 <hr>
 Créer le 06 avril 2026.

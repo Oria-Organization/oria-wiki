@@ -31,7 +31,7 @@ Oria n’est pas seulement une histoire à lire, c’est un monde vivant, où ch
 
 ## Structure du REPO
 ```
-Oria-wiki/
+oria-wiki/
 ├── README.md
 ├── index.html
 ├── assets/

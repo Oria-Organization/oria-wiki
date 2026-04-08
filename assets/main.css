@@ -6,6 +6,8 @@ body {
     color: black;
     line-height: 1.4;
     font-size: 1.25rem;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
 }
 
 main {

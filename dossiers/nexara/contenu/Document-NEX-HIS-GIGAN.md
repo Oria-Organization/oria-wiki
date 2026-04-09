@@ -7,7 +7,7 @@ Le Gigantisme est une anomalie corporelle provoquant une croissance rapide. Vers
 L’espérance de vie dépassait 40 ans, mais la vie restait difficile en raison de la discrimination et des contraintes physiques.<br>
 
 ## Schéma de l'évolution de la taille en fonction de l'âge
-![schéma d'évolution du gigantisme](../../images/image_nexara/prehistoire/gigantisme-taille.png)
+![schéma d'évolution du gigantisme](https://oria-organization.github.io/oria-wiki/images/image_nexara/prehistoire/gigantisme-taille.png)
 
 ## Information supplémentaire
 Nous avons pû retrouver des informations supplémentaires sur le gigantisme.<br>

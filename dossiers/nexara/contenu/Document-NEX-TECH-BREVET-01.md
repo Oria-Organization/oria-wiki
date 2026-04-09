@@ -47,8 +47,9 @@ La consommations pouvant être possible pourront subvenir aux besoins de 165 mil
 Pour capter toute l'énergie des étoiles, nous utiliserons des paneaux réfléchissant par le pollisage du Ta₄HfC₅ qui redirigerons cette lumière vers des collecteurs pour la transformer en énergie, nous aurons de plus des condensateurs qui stockerons l'énergie et étant transportable.
 
 ## Représentation
-![Représentation réaliste de la sphère](../../images/image_nexara/technologie/sphere_etoile.png)
-![Représentation dessinée de la sphère](../../images/image_nexara/technologie/sphere_etoile-dessin.png)
+![Représentation réaliste de la sphère](../../../images/image_nexara/technologie/sphere_etoile.png)
+<br>
+![Représentation dessinée de la sphère](../../../images/image_nexara/technologie/sphere_etoile-dessin.png)
 
 Information !: La représentation dessinée est sous license BY-NC-ND 4.0.
 <hr>

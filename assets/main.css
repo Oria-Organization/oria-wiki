@@ -196,7 +196,8 @@ main a:hover {
 .document-lecture img {
     max-width: 100%;
     height: auto;
-    text-align: center;
+    display: block;
+    margin: 0 auto;
 }
 
 .lecture-tags {

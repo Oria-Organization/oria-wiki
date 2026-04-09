@@ -1,6 +1,6 @@
 ---
 title: Brevet sur la construction d'une Sphère de Gaucher
-tags: [Brevet, Empire Nexara, Technologie, énergie, Jean Gaucher]
+tags: [Brevet, Empire Nexara, Technologie, Énergie, Jean Gaucher]
 ---
 Date: 30 mois-E 254.<br>
 Numéro du document: NEX-TECH-BREVET-01.<br>
@@ -51,6 +51,7 @@ Pour capter toute l'énergie des étoiles, nous utiliserons des paneaux réfléc
 <br>
 ![Représentation dessinée de la sphère](https://oria-organization.github.io/oria-wiki/images/image_nexara/technologie/sphere_etoile-dessin.png)
 
+<hr>
 Information !: La représentation dessinée est sous license BY-NC-ND 4.0.
 <hr>
-Créer le 09 avril 2026.
+Créé le 09 avril 2026.

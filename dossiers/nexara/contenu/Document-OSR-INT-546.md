@@ -40,7 +40,7 @@ N°Agent responsable de l'interrogation:
 - [XX:39] `Agent n°5 326`: Dans quel sens ?
 - [XX:39] `HYRTI Kelian`: Comme si je me trouvais chez moi, sans que sa le sois.
 - [XX:40] `Agent n°5 326`: D'accord. Pouvez vous d'écrire sur cette feuille ce que vous aviez vu ?
-- [XX:46] `HYRTI Kelian`: ![Représentation par HYRTI Kelian](../../../images/image_nexara/illustration/illustration_backroom_kelian.png)
+- [XX:46] `HYRTI Kelian`: ![Représentation par HYRTI Kelian](https://oria-organization.github.io/oria-wiki/images/image_nexara/illustration/illustration_backroom_kelian.png)
 - [XX:49] `Agent n°5 326`: Interessant, comment vous vous êtes sortie de cette endroit ?
 - [XX:49] `HYRTI Kelian`: J'ai du passé plusieurs atmosphère différente, plusieurs endroit qui me semblait familier, j'ai rencontrer d'autre personne, qui... Ne venait pas de chez nous ?
 - [XX:50] `Agent n°5 326`: De chez nous, c'est à dire ?

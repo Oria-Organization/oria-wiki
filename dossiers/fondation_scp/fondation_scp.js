@@ -1,8 +1,10 @@
-// fondation_scp.js — Centre de Données — Fondation SCP
-// Dépendance : marked.js (chargé via CDN dans fondation_scp.html)
-
-const INDEX_URL = "https://raw.githubusercontent.com/oria-organization/oria-wiki/main/dossiers/fondation_scp/contenu/index.json";
+// ─── Configuration ────────────────────────────────────────────────────────────
+// Modifier ces deux lignes selon votre projet :
+const INDEX_URL   = "https://raw.githubusercontent.com/oria-organization/oria-wiki/main/dossiers/fondation_scp/contenu/index.json";
 const CONTENU_URL = "https://raw.githubusercontent.com/oria-organization/oria-wiki/main/dossiers/fondation_scp/contenu/";
+// ──────────────────────────────────────────────────────────────────────────────
+
+marked.setOptions({ breaks: true });
 
 let tousLesDocuments = [];
 let derniereRecherche = "";
@@ -11,6 +13,9 @@ let derniereRecherche = "";
 
 document.addEventListener("DOMContentLoaded", async () => {
   await chargerDocuments();
+
+  document.getElementById("search-input").addEventListener("input", filtrerDocuments);
+  document.getElementById("btn-retour").addEventListener("click", retourListe);
 });
 
 async function chargerDocuments() {
@@ -44,31 +49,38 @@ async function chargerFichierMD(nom) {
 
 function parseFrontmatter(nom, texte) {
   let title = nom.replace(".md", "");
-  let tags = [];
   let corps = texte;
 
   const match = texte.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
   if (match) {
     const fm = match[1];
-    corps = match[2];
+    corps    = match[2];
 
     const titleMatch = fm.match(/^title:\s*(.+)$/m);
     if (titleMatch) title = titleMatch[1].trim().replace(/^["']|["']$/g, "");
-
-    const tagsInline = fm.match(/^tags:\s*\[(.+)\]$/m);
-    const tagsBlock  = fm.match(/^tags:\s*\r?\n((?:\s*-\s*.+\r?\n?)+)/m);
-    if (tagsInline) {
-      tags = tagsInline[1].split(",").map(t => t.trim().replace(/^["']|["']$/g, ""));
-    } else if (tagsBlock) {
-      tags = tagsBlock[1]
-        .split(/\r?\n/)
-        .map(l => l.replace(/^\s*-\s*/, "").trim())
-        .filter(Boolean);
-    }
   }
 
-  const apercu = corps.replace(/^#{1,6}\s.+$/mg, "").trim().slice(0, 280);
-  return { nom, title, tags, corps, apercu };
+  const apercu = nettoyerMarkdown(corps).slice(0, 280);
+  return { nom, title, corps, apercu };
+}
+
+// ─── Nettoyage Markdown pour les aperçus ─────────────────────────────────────
+
+function nettoyerMarkdown(texte) {
+  return texte
+    .replace(/^---[\s\S]*?---\r?\n?/, "")
+    .replace(/^#{1,6}\s+.+$/mg, "")
+    .replace(/!\[.*?\]\(.*?\)/g, "")
+    .replace(/\[([^\]]+)\]\([^\)]+\)/g, "$1")
+    .replace(/\[\[([^\]]+)\]\]/g, "$1")
+    .replace(/[*_]{1,3}([^*_]+)[*_]{1,3}/g, "$1")
+    .replace(/`{1,3}[^`]*`{1,3}/g, "")
+    .replace(/^>\s+/mg, "")
+    .replace(/^[-*+]\s+/mg, "")
+    .replace(/^\d+\.\s+/mg, "")
+    .replace(/\r?\n/g, " ")
+    .replace(/\s{2,}/g, " ")
+    .trim();
 }
 
 // ─── Affichage liste ──────────────────────────────────────────────────────────
@@ -86,37 +98,17 @@ function afficherListe(docs) {
     const carte = document.createElement("div");
     carte.className = "carte-document";
 
-    const tagsHtml = doc.tags.map(t =>
-      `<span class="tag" data-tag="${escapeHtml(t)}">${escapeHtml(t)}</span>`
-    ).join("");
-
     carte.innerHTML = `
       <div class="carte-titre">${escapeHtml(doc.title)}</div>
-      <div class="carte-tags">${tagsHtml}</div>
       <div class="carte-apercu">${escapeHtml(doc.apercu)}${doc.apercu.length >= 280 ? "…" : ""}</div>
     `;
 
-    // Clic sur un tag → recherche par tag
-    carte.querySelectorAll(".tag").forEach(tagEl => {
-      tagEl.addEventListener("click", (e) => {
-        e.stopPropagation();
-        document.getElementById("search-input").value = tagEl.dataset.tag;
-        filtrerDocuments();
-      });
-    });
-
-    // Clic sur la carte → lecture
     carte.addEventListener("click", () => ouvrirDocument(doc));
-
     conteneur.appendChild(carte);
   });
 }
 
 // ─── Recherche ────────────────────────────────────────────────────────────────
-
-document.addEventListener("DOMContentLoaded", () => {
-  document.getElementById("search-input").addEventListener("input", filtrerDocuments);
-});
 
 function filtrerDocuments() {
   const q = document.getElementById("search-input").value.trim().toLowerCase();
@@ -127,41 +119,57 @@ function filtrerDocuments() {
     return;
   }
 
-  const filtres = tousLesDocuments.filter(doc =>
-    doc.title.toLowerCase().includes(q) ||
-    doc.tags.some(t => t.toLowerCase().includes(q))
-  );
+  const mots = q.split(/\s+/).filter(Boolean);
+
+  const filtres = tousLesDocuments.filter(doc => {
+    const haystack = [
+      doc.title,
+      nettoyerMarkdown(doc.corps)
+    ].join(" ").toLowerCase();
+
+    return mots.every(mot => haystack.includes(mot));
+  });
 
   afficherListe(filtres);
 }
 
-// ─── Lecture ──────────────────────────────────────────────────────────────────
+// ─── Vue lecture ──────────────────────────────────────────────────────────────
 
 function ouvrirDocument(doc) {
-  document.getElementById("vue-liste").style.display = "none";
+  document.getElementById("vue-liste").style.display  = "none";
   document.getElementById("vue-lecture").style.display = "block";
 
-  const tagsHtml = doc.tags.length
-    ? `<div class="carte-tags lecture-tags">${doc.tags.map(t =>
-        `<span class="tag">${escapeHtml(t)}</span>`).join("")}</div>`
-    : "";
+  const corpsHtml = marked.parse(doc.corps);
+
+  const corpsAvecLiens = corpsHtml.replace(/\[\[([^\]]+)\]\]/g, (match, titre) => {
+    const cible = tousLesDocuments.find(
+      d => d.title.toLowerCase() === titre.toLowerCase()
+    );
+    if (cible) {
+      return `<a href="#" class="lien-wiki" data-titre="${escapeHtml(cible.title)}">${escapeHtml(cible.title)}</a>`;
+    }
+    return `<span class="lien-wiki-mort" title="Document introuvable">${escapeHtml(titre)}</span>`;
+  });
 
   document.getElementById("contenu-lecture").innerHTML =
     `<h1>${escapeHtml(doc.title)}</h1>` +
-    tagsHtml +
     `<hr>` +
-    marked.parse(doc.corps);
+    corpsAvecLiens;
+
+  document.querySelectorAll(".lien-wiki").forEach(lien => {
+    lien.addEventListener("click", e => {
+      e.preventDefault();
+      const cible = tousLesDocuments.find(d => d.title === lien.dataset.titre);
+      if (cible) ouvrirDocument(cible);
+    });
+  });
 
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
-document.addEventListener("DOMContentLoaded", () => {
-  document.getElementById("btn-retour").addEventListener("click", retourListe);
-});
-
 function retourListe() {
   document.getElementById("vue-lecture").style.display = "none";
-  document.getElementById("vue-liste").style.display = "block";
+  document.getElementById("vue-liste").style.display   = "block";
 
   if (derniereRecherche) {
     document.getElementById("search-input").value = derniereRecherche;

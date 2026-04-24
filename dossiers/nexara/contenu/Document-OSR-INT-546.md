@@ -1,14 +1,13 @@
 ---
 title: Interrogatoire n°546
-tags: [Interrogatoire, OSR, Enquête n°194]
 ---
 
--> Date: 26 mois-P 451.<br>
--> Numéro du document: OSR-INT-546.<br>
-<hr>
+-> Date: 26 mois-P 451.
+-> Numéro du document: OSR-INT-546.
 
-L'interrogatoire n°546 porte autour de l'enquête n°194, avec la disparition de plusieurs citoyens dont leur signaux ont été perdus.<br>
-<br>
+---
+
+L'interrogatoire n°546 porte autour de l'enquête n°194, avec la disparition de plusieurs citoyens dont leur signaux ont été perdus.
 
 Information de la personne interrogée:
 - ID: 145275874112020520
@@ -17,7 +16,6 @@ Information de la personne interrogée:
 - Date d'anniversaire: 24 mois-T 365
 - Métier(s): Architecte
 - Date de l'interrogatoire: 25 mois-P 451
-<br>
 
 N°Agent responsable de l'interrogation:
 - Numéro: 5 326
@@ -54,5 +52,5 @@ N°Agent responsable de l'interrogation:
 - [XX:59] `Agent n°5 326`: Exactement. Vous auriez meilleur logement que votre ancienne cellules de Classe C, avec de la nourriture lambda et sain. Nous avions eu tort de vous mettre dans les cellules de Classe C. Suivez ces deux gardes je vous prie.
 - [XX:01] `HYRTI Kelian`: D'accord.
 
-<hr>
+---
 Créé le 20 avril 2026.

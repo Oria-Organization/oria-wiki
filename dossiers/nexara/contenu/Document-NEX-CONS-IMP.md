@@ -1,10 +1,10 @@
 ---
 title: Constitution impérial
-tags: [Constitution, Empire Nexara, Impérial]
 ---
-Date de création: 24 mois-B 24 330.<br>
+Date de création: 24 mois-B 24 330.
 Numéro du document: NEX-CONS-IMP.
-<hr>
+
+---
 
 ### Artcile 1: Les droits de la constitution.
 - Article 1-1: L’empereur ne peut changer la constitution impérial ou la supprimé.
@@ -21,6 +21,7 @@ Numéro du document: NEX-CONS-IMP.
 ### Article 4: Exceptions extrêmes.
 - Articles 4-1: Seulement en cas d’extrême nécessité, l’empereur peut changer le régime, par l’accord du peuple, et révoqué temporairement le haut conseil si celui-ci abuse de ses droits.
 - Articles 4-2: L’empereur peut demander à changer la constitution impériale avec la demande du peuple, et l’accord en majorité du haut conseil, le changement de la constitution impérial peut se faire si, tout le peuple accepte le changement sans l’accord obligatoire du haut conseil.
-<hr>
+
+---
 Créé le 06 avril 2026.
 Mis à jour le 07 avril 2026.

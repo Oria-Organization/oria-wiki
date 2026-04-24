@@ -15,7 +15,6 @@ main {
     padding-inline: 10rem;
 }
 
-/* Footer */
 footer {
   text-align: center;
   font-size: 1rem;
@@ -28,9 +27,7 @@ footer p:nth-of-type(2) {
 footer p:nth-of-type(3) {
     font-size: 0.6rem;
 }
-/* ======================================== */
 
-/* === Balises === */
 h1 {
     color:#550000;
     text-align: center;
@@ -40,7 +37,6 @@ hr {
     border: 1px solid #000000;
 }
 
-/* lien */
 main a {
     text-decoration: none;
     color: #000055;
@@ -64,59 +60,43 @@ main a:hover {
 .bouton a{
     border: 2px solid #000000;
     background-color: #AAAAAA;
-
     padding: 1rem;
-
     text-align: center;
 }
 
 .bouton a:hover{
     border: 2px solid #000000;
     background-color: #ffffff;
-
     color: #000000;
 }
-/* ======================================== */
 
-/* === Classes === */
 .para {
     margin-block: 2rem;
     padding-inline: 1rem;
-
     border: 5px solid #000000;
 }
 
 .texte {
     margin-inline: 10rem;
     padding: 2rem;
-
     border: 2px solid #000000;
     background-color: #AAAAAA;
-
     font-style: italic;
     font-size: large;
     text-align: center;
 }
-/* ======================================== */
 
-/* === Centre de données === */
-
-/* Barre de recherche */
 .search-bar-container {
     margin-block: 1.5rem;
 }
 
 #search-input {
     width: 100%;
-
     padding: 0.6rem 1rem;
-
     font-size: 1rem;
     color: #000000;
-
     border: 2px solid #000000;
     background-color: #AAAAAA;
-
     box-sizing: border-box;
 }
 
@@ -125,25 +105,6 @@ main a:hover {
     background-color: #c0c0c0;
 }
 
-/* Tags */
-.tag {
-    display: inline-block;
-
-    padding: 0.15rem 0.5rem;
-    font-size: 0.78rem;
-
-    background-color: #220000;
-    color: #ffffff;
-
-    cursor: pointer;
-    transition: background-color 0.2s;
-}
-
-.tag:hover {
-    background-color: #440000;
-}
-
-/* Liste de documents */
 .liste-documents {
     display: flex;
     flex-direction: column;
@@ -151,13 +112,10 @@ main a:hover {
     margin-block: 1rem;
 }
 
-/* Carte document */
 .carte-document {
     padding: 0.8rem 1rem;
-
     border: 5px solid #000000;
     background-color: #AAAAAA;
-
     cursor: pointer;
     transition: background-color 0.2s;
 }
@@ -186,7 +144,6 @@ main a:hover {
     font-style: italic;
 }
 
-/* Vue lecture — étend .texte */
 .texte.document-lecture {
     font-style: normal;
     margin: 0%;
@@ -204,7 +161,6 @@ main a:hover {
     margin-bottom: 1rem;
 }
 
-/* Bouton retour */
 .btn-retour {
     display: inline-block;
     margin-bottom: 1.2rem;
@@ -220,68 +176,61 @@ main a:hover {
 .btn-retour:hover {
     background-color: #440000;
 }
-/* ======================================== */
 
-/* === Barre de navigation === */
+.lien-wiki-mort {
+    color: #888888;
+    text-decoration: line-through;
+    cursor: not-allowed;
+}
+
 header {
-    list-style-type: none; /* Pour éviter d'avoir des puces */
-    flex-wrap: wrap; /* Adaptation */
-
+    list-style-type: none;
+    flex-wrap: wrap;
     display: flex;
     top: 0;
     position: sticky;
-
     background-color: #0b0b0b;
 }
 
 header li a {
     display: block;
-
     color: white;
     text-decoration: none;
-
     padding: 14px 16px;
 }
 
 header li a:hover:not(.active) {
-    background-color: #1b1b1b; /* Couleur quand la souris passe dessus */
+    background-color: #1b1b1b;
 }
 
 header li a.active {
-    background-color: #440000; /* Couleur de celle active */
+    background-color: #440000;
 }
 
-/* Menu déroulant */
 .bloc_base {
     color: white;
-
     padding: 14px 16px;
     border: none;
-
-    cursor: pointer; /* Curseur en forme de main */
+    cursor: pointer;
 }
 
 .bloc-interne {
     background-color: #0b0b0b;
-
-    display: none; /* Caché par défaut */
-    position: absolute; 
-
+    display: none;
+    position: absolute;
     min-width: 200px;
 }
 
 .bloc-interne a {
-    color: white; 
+    color: white;
     text-decoration: none;
-
-    display: block;   /* Affichage en bloc pour prendre toute la largeur */
+    display: block;
 }
 
 .bloc:hover .bloc-interne {
-    display: block; /* Affiche le menu au survol */
+    display: block;
 }
 
 .bloc:hover .bloc_base {
     background-color: #1b1b1b;
 }
-/* ============================================= */

@@ -1,10 +1,8 @@
 ---
 title: Information des classifications
-tags: [Classifications, Accréditations, Information]
 ---
 ## Utilité des accréditations
 Les accréditations permettent de sécuriser des documents ou zones censées être restreint aux publics par des classifications, elle sont numéroté de 0 à 5.
-<br>
 
 - Accréditation L0: Accréditation de base, et permet l'accès à tout les documents non classifier.
 - Accréditation L1: Même niveau d'accès qu'une accréditation de niveau L0, donc un accès à tout les documents non classifier. Ce niveau est seulement accordés et donner aux membres citoyens de l'empire.
@@ -17,6 +15,7 @@ Les accréditations permettent de sécuriser des documents ou zones censées êt
 - Classification TOP SECRET: Ce niveau de classification le moins important peut être seulement lu par des citoyens ayant une accréditation L3 minimum.
 - Classification REDACTED: Ce niveau de classification est seulement autoriser à être lu par un niveau d'accréditation L4 minimum.
 - Classification CENSURED: Ce niveau de classification empèche la lecture par tout citoyens possédant quelconques accréditation, appart ceux ayant l'accréditation `[Censurée]`.
-<hr>
+
+---
 Créé le 06 avril 2026.
 Mis à jour le 07 avril 2026.

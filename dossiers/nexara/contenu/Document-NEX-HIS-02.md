@@ -11,8 +11,8 @@ Certains royaumes décidèrent de l’éradiquer ou de la réduire en esclavage,
 La période la plus violente de l’histoire survint alors, et la population fut éradiquée vers -255, sans survivants.
 
 ## Source
-Pour d'autre information sur le gigantisme, rendez vous sur le document [[Gigantisme]].
+Pour d'autre information sur le gigantisme, rendez vous sur les informations liées au [[Gigantisme]].
 
 ---
 Créé le 06 avril 2026.
-Mis à jour le 07 avril 2026.
+Mis à jour le 26 avril 2026.

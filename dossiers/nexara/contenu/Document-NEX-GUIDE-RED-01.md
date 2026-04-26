@@ -97,10 +97,11 @@ Exemple conforme :
 - [ ] Le ton est cohérent du début à la fin du document
 - [ ] Le document ne contient aucune information postérieure à sa date de rédaction
 - [ ] La classification correspond au contenu et aux destinataires
-- [ ] Les liens vers d'autres documents `[[NEX-XX]]` existent ou sont marqués `[Non disponible]`
+- [ ] Les liens vers d'autres documents `[[Titre du document]]` existent ou sont marqués `[Non disponible]`
 - [ ] Le numéro de document respecte la nomenclature
 - [ ] Les informations absentes sont matérialisées par les conventions de censure
 - [ ] L'orthographe a été vérifiée, en particulier pour les documents juridiques et officiels
 
 ---
 Créé le 07 avril 2026.
+Mis à jour le 26 avril 2026.

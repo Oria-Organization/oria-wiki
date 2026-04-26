@@ -22,9 +22,10 @@ Avec tout ceci vous penserez que passer à travers un mur n'est pas dramatique e
 `[Redistribution des documents directement dans la sous base de données - S.B.O. ...]`
 `[Changement du titre ...]`
 
-`[-> Information: Tout document liés aux tags "SBO" est accrédité L4 sous ordre du Haut commandemant.]`
+`[-> Information: Tout document liés aux "S.B.O." est accrédité L4 sous ordre du Haut commandemant.]`
 `[-> Information: Les documents sous la date préscrite ci dessous et mentionnant le tags "SBO", sont des documents modifiés pour la base de données.]`
 `[-> Date: 28 mois-J 993.]`
 
 ---
 Créé le 19 avril 2026.
+Mis à jour le 24 avril 2026.

@@ -6,7 +6,7 @@ Les classes sociales permettent de représenter un citoyen dans la société, el
 Une directives que l'empire a pris dès l'années 282 afin de mieux organiser les citoyens, et quels sont les métiers qu'ils peuvent envisager ou non.
 
 ## Liste des classes sociales
-- Classe Zeta: Inconnu, voir le fichier classifier CENSURED soit le document [[Classe Zêta - Disparition]].
+- Classe Zeta: Inconnu, voir le fichier classifier CENSURED nommer "[[Classe Zêta - Disparition]]".
 - Classe Epsilon: Les citoyens les moins élevé intellectuellement, avec un QI inférieur à 15 exclus.
 - Classe Delta: Les citoyens étant sous la moyenne, ils possédent une moyenne de QI inférieur à 40 exclus.
 - Classe Gamma: La moyenne pour les citoyens, ils possédent une moyenne de QI inférieur à 65 exclus.
@@ -15,3 +15,4 @@ Une directives que l'empire a pris dès l'années 282 afin de mieux organiser le
 
 ---
 Créé le 06 avril 2026.
+Mis à jour le 24 avril 2026.

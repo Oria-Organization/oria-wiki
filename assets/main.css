@@ -6,8 +6,6 @@ body {
     color: black;
     line-height: 1.4;
     font-size: 1.25rem;
-    font-family: 'Titillium Web', sans-serif;
-    font-weight: 400;
 }
 
 main {
@@ -15,6 +13,7 @@ main {
     padding-inline: 10rem;
 }
 
+/* Footer */
 footer {
   text-align: center;
   font-size: 1rem;
@@ -27,7 +26,9 @@ footer p:nth-of-type(2) {
 footer p:nth-of-type(3) {
     font-size: 0.6rem;
 }
+/* ======================================== */
 
+/* === Balises === */
 h1 {
     color:#550000;
     text-align: center;
@@ -37,6 +38,7 @@ hr {
     border: 1px solid #000000;
 }
 
+/* lien */
 main a {
     text-decoration: none;
     color: #000055;
@@ -45,7 +47,7 @@ main a {
 
 main a:hover {
     text-decoration: underline;
-    color: #ffffff;
+    color: #FF0000;
 }
 
 .lien-nothing a {
@@ -59,32 +61,107 @@ main a:hover {
 
 .bouton a{
     border: 2px solid #000000;
-    background-color: #AAAAAA;
+    background-color: #FFFFFF;
+
     padding: 1rem;
+
     text-align: center;
 }
 
 .bouton a:hover{
     border: 2px solid #000000;
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #AAAAAA;
 }
+/* ======================================== */
 
+/* === Classes === */
 .para {
     margin-block: 2rem;
     padding-inline: 1rem;
+
     border: 5px solid #000000;
 }
 
 .texte {
     margin-inline: 10rem;
     padding: 2rem;
+
     border: 2px solid #000000;
-    background-color: #AAAAAA;
+    background-color: #FFFFFF;
+
     font-style: italic;
     font-size: large;
     text-align: center;
 }
+/* ======================================== */
+
+/* === Barre de navigation === */
+header {
+    list-style-type: none; /* Pour éviter d'avoir des puces */
+    flex-wrap: wrap; /* Adaptation */
+
+    display: flex;
+    top: 0;
+    position: sticky;
+
+    background-color: #0b0b0b;
+}
+
+header li a {
+    display: block;
+
+    color: white;
+    font-family: 'Marcellus', serif;
+    text-decoration: none;
+
+    padding: 14px 16px;
+}
+
+header li a:hover:not(.active) {
+    background-color: #3b3b3b; /* Couleur quand la souris passe dessus */
+}
+
+header li a.active {
+    background-color: #440000; /* Couleur de celle active */
+}
+
+/* Menu déroulant */
+.bloc_base {
+    color: white;
+    font-family: 'Marcellus', serif;
+
+    padding: 14px 16px;
+    border: none;
+
+    cursor: pointer; /* Curseur en forme de main */
+}
+
+.bloc-interne {
+    background-color: #0b0b0b;
+
+    display: none; /* Caché par défaut */
+    position: absolute; 
+
+    min-width: 200px;
+}
+
+.bloc-interne a {
+    color: white; 
+    text-decoration: none;
+
+    display: block;   /* Affichage en bloc pour prendre toute la largeur */
+}
+
+.bloc:hover .bloc-interne {
+    display: block; /* Affiche le menu au survol */
+}
+
+.bloc:hover .bloc_base {
+    background-color: #3b3b3b;
+}
+/* ============================================= */
+
+/* === Recherche === */
 
 .search-bar-container {
     margin-block: 1.5rem;
@@ -96,13 +173,13 @@ main a:hover {
     font-size: 1rem;
     color: #000000;
     border: 2px solid #000000;
-    background-color: #AAAAAA;
+    background-color: #FFFFFF;
     box-sizing: border-box;
 }
 
 #search-input:focus {
     outline: none;
-    background-color: #c0c0c0;
+    background-color: #b0b0b0;
 }
 
 .liste-documents {
@@ -115,13 +192,13 @@ main a:hover {
 .carte-document {
     padding: 0.8rem 1rem;
     border: 5px solid #000000;
-    background-color: #AAAAAA;
+    background-color: #FFFFFF;
     cursor: pointer;
     transition: background-color 0.2s;
 }
 
 .carte-document:hover {
-    background-color: #c0c0c0;
+    background-color: #b0b0b0;
 }
 
 .carte-titre {
@@ -182,55 +259,4 @@ main a:hover {
     text-decoration: line-through;
     cursor: not-allowed;
 }
-
-header {
-    list-style-type: none;
-    flex-wrap: wrap;
-    display: flex;
-    top: 0;
-    position: sticky;
-    background-color: #0b0b0b;
-}
-
-header li a {
-    display: block;
-    color: white;
-    text-decoration: none;
-    padding: 14px 16px;
-}
-
-header li a:hover:not(.active) {
-    background-color: #1b1b1b;
-}
-
-header li a.active {
-    background-color: #440000;
-}
-
-.bloc_base {
-    color: white;
-    padding: 14px 16px;
-    border: none;
-    cursor: pointer;
-}
-
-.bloc-interne {
-    background-color: #0b0b0b;
-    display: none;
-    position: absolute;
-    min-width: 200px;
-}
-
-.bloc-interne a {
-    color: white;
-    text-decoration: none;
-    display: block;
-}
-
-.bloc:hover .bloc-interne {
-    display: block;
-}
-
-.bloc:hover .bloc_base {
-    background-color: #1b1b1b;
-}
+/* ============================================= */

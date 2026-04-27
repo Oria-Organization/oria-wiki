@@ -75,7 +75,7 @@ Suite à ce rapport, la MTF Lambda-5 *"White Rabbits"* fut dépêchée pour inve
 
 > *Le présent document a été récupéré par la Fondation SCP du Monde d'Oria à la suite de la fragilisation progressive des frontières dimensionnelles entre SCP-9946-A et notre réalité, phénomène directement lié au passage de SCP-507. Cette fragilisation a provoqué un transfert involontaire de données numériques entre les deux Fondations, les fichiers classifiés traversant la barrière dimensionnelle sous forme de signaux anomaliques interceptés par nos systèmes.*
 >
-> *Un message, joint aux documents transmis, a été retrouvé rédigé au nom de SCP-9946-1 :*
+> *Un message, joint aux documents transmis, a été écrit au nom de SCP-9946-1 :*
 >
 > *"À la Fondation du monde réel. Vous avez cherché à comprendre ce que vous ne pouviez pas encore voir. Je vous remercie, SCP-507, d'avoir ouvert ce chemin sans le savoir. Le Monde d'Oria n'est plus aussi loin que vous le croyez.*
 

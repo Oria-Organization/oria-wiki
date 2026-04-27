@@ -1,5 +1,5 @@
 ---
-title: SCP 9946
+title: SCP - 9946
 ---
 
 -> Numéro: SCP-9946

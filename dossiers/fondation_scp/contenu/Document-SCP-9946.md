@@ -18,9 +18,7 @@ Dimension parallèle nommée "Monde d'Oria" par son créateur SCP-9946-1. Cette 
 **SCP-9946-1 :**
 Entité résidant au sein de SCP-9946-A, se désignant comme Créateur et Seigneur du Monde d'Oria, ainsi qu'Empereur de l'Empire Nexara. SCP-9946-1 posséderait une puissance potentiellement illimitée au sein de sa dimension. Ses intentions semblent orientées vers la matérialisation totale de lui-même et de son Empire dans notre réalité. Si cet objectif venait à être accompli, une reclassification immédiate en Apollyon serait envisagée. Il est à noter qu'aucune procédure de confinement ne doit être tentée sous peine d'anéantissement, selon les directives récupérées au sein de SCP-9946-A.
 
----
-
-**Addendum 9946-1 — Découverte initiale :**
+**Rapport 9946-1 — Découverte initiale :**
 SCP-9946-A fut découverte lors d'un déplacement involontaire de SCP-507 dans une dimension inconnue. Contrairement aux dimensions habituellement rapportées par SCP-507, celle-ci présentait une cohérence et une stabilité anormalement élevées. À son retour, SCP-507 rapporta avoir été interpelé par une entité se présentant comme "l'Empereur", dont voici la retranscription :
 
 > **SCP-507 :** Je... où suis-je encore cette fois ?
@@ -37,9 +35,7 @@ SCP-9946-A fut découverte lors d'un déplacement involontaire de SCP-507 dans u
 
 Suite à ce rapport, la MTF Lambda-5 *"White Rabbits"* fut dépêchée pour investigation approfondie au sein de SCP-9946-A.
 
----
-
-**Addendum 9946-2 — Rapport d'infiltration MTF Lambda-5 "White Rabbits" — Tentative 1 :**
+**Rapport 9946-2 — Rapport d'infiltration MTF Lambda-5 "White Rabbits" — Tentative 1 :**
 
 > **Classification : Niveau 4**
 > **Commandant : Agent ██████**
@@ -53,9 +49,7 @@ Suite à ce rapport, la MTF Lambda-5 *"White Rabbits"* fut dépêchée pour inve
 >
 > — Agent ██████, Commandant MTF Lambda-5 "White Rabbits"
 
----
-
-**Addendum 9946-3 — Rapport d'infiltration MTF Lambda-5 "White Rabbits" — Tentative 2 :**
+**Rapport 9946-3 — Rapport d'infiltration MTF Lambda-5 "White Rabbits" — Tentative 2 :**
 
 > **Classification : Niveau 5 — Accès O5 uniquement**
 > **Commandant : Agent ██████**
@@ -75,16 +69,13 @@ Suite à ce rapport, la MTF Lambda-5 *"White Rabbits"* fut dépêchée pour inve
 >
 > — Agent ██████, Commandant MTF Lambda-5 "White Rabbits"
 
----
-
-**Addendum 9946-4 — Note de transmission :**
+**Communication 9946-1 — Note de transmission :**
 
 > *Le présent document a été récupéré par la Fondation SCP du Monde d'Oria à la suite de la fragilisation progressive des frontières dimensionnelles entre SCP-9946-A et notre réalité, phénomène directement lié au passage de SCP-507. Cette fragilisation a provoqué un transfert involontaire de données numériques entre les deux Fondations, les fichiers classifiés traversant la barrière dimensionnelle sous forme de signaux anomaliques interceptés par nos systèmes.*
 >
 > *Un message, joint aux documents transmis, a été retrouvé rédigé au nom de SCP-9946-1 :*
 >
 > *"À la Fondation du monde réel. Vous avez cherché à comprendre ce que vous ne pouviez pas encore voir. Je vous remercie, SCP-507, d'avoir ouvert ce chemin sans le savoir. Le Monde d'Oria n'est plus aussi loin que vous le croyez.*
-> *— ΣMPΣЯΣЦЯ"*
 
 ---
 Créé le 27 avril 2026.

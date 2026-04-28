@@ -55,15 +55,15 @@ Suite à ce rapport, la MTF Lambda-5 *"White Rabbits"* fut dépêchée pour inve
 >
 > L'accès aux archives O5 de la Fondation interne a été obtenu sans incident. Les documents récupérés sont les suivants :
 >
-> — **Dossier sur la nature du Monde :** Confirme que l'intégralité de SCP-9946-A n'est qu'une illusion créée par une entité extérieure désignée "l'Illusionniste". Ce document précise explicitement que le monde et tous ses habitants y compris SCP-9946-1 lui-même, ne sont que le fruit d'une imagination.
+> **Dossier sur la nature du Monde :** Confirme que l'intégralité de SCP-9946-A n'est qu'une illusion créée par une entité extérieure désignée "l'Illusionniste". Ce document précise explicitement que le monde et tous ses habitants y compris SCP-9946-1 lui-même, ne sont que le fruit d'une imagination.
 >
-> — **Dossier sur SCP-9946-1 :** Classifié Apollyon et Thaumiel par la Fondation SCP, classification débattue en interne, Apollyon en raison de sa puissance absolue et incontenable au sein de la dimension, Thaumiel car ce qui est dit, l'anomalie soutient le reconfinement d'autre anomalie. Sa volonté de rendre le monde réel étant ce qui maintient la cohésion de la dimension. Le document stipule explicitement qu'aucune procédure de confinement ne doit être tentée sous peine d'anéantissement immédiat par l'anomalie.
+> **Dossier sur SCP-9946-1 :** Classifié Apollyon et Thaumiel par la Fondation SCP, classification débattue en interne, Apollyon en raison de sa puissance absolue et incontenable au sein de la dimension, Thaumiel car ce qui est dit, l'anomalie soutient le reconfinement d'autre anomalie. Sa volonté de rendre le monde réel étant ce qui maintient la cohésion de la dimension. Le document stipule explicitement qu'aucune procédure de confinement ne doit être tentée sous peine d'anéantissement immédiat par l'anomalie.
 >
-> — **Dossier sur l'Illusionniste :** identité réel inconnu. Aucun dossier trouvés à son nom dans la base de données de la fondation SCP.
+> **Dossier sur l'Illusionniste :** identité réel inconnu. Aucun dossier trouvés à son nom dans la base de données de la fondation SCP.
 >
 > **Recommandation :** Reclassification de SCP-9946 envisagée selon l'évolution de la situation. Surveillance continue recommandée.
 >
-> — Agent `[Non renseigné]`, Commandant MTF Lambda-5 "White Rabbits"
+> Agent `[Non renseigné]`, Commandant MTF Lambda-5 "White Rabbits"
 
 ---
 

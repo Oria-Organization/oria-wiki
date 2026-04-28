@@ -4,6 +4,7 @@ title: SCP - 9946
 
 -> Numéro: SCP-9946
 -> Classe: Safe
+
 ---
 
 **Procédures de confinement spéciales :**

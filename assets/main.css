@@ -97,8 +97,8 @@ main a:hover {
 
 /* === Barre de navigation === */
 header {
-    list-style-type: none; /* Pour éviter d'avoir des puces */
-    flex-wrap: wrap; /* Adaptation */
+    list-style-type: none;
+    flex-wrap: wrap;
 
     display: flex;
     top: 0;
@@ -118,11 +118,11 @@ header li a {
 }
 
 header li a:hover:not(.active) {
-    background-color: #3b3b3b; /* Couleur quand la souris passe dessus */
+    background-color: #3b3b3b;
 }
 
 header li a.active {
-    background-color: #440000; /* Couleur de celle active */
+    background-color: #440000;
 }
 
 /* Menu déroulant */
@@ -133,27 +133,27 @@ header li a.active {
     padding: 14px 16px;
     border: none;
 
-    cursor: pointer; /* Curseur en forme de main */
+    cursor: pointer;
 }
 
 .bloc-interne {
     background-color: #0b0b0b;
 
-    display: none; /* Caché par défaut */
-    position: absolute; 
+    display: none;
+    position: absolute;
 
     min-width: 200px;
 }
 
 .bloc-interne a {
-    color: white; 
+    color: white;
     text-decoration: none;
 
-    display: block;   /* Affichage en bloc pour prendre toute la largeur */
+    display: block;
 }
 
 .bloc:hover .bloc-interne {
-    display: block; /* Affiche le menu au survol */
+    display: block;
 }
 
 .bloc:hover .bloc_base {
@@ -258,5 +258,58 @@ header li a.active {
     color: #888888;
     text-decoration: line-through;
     cursor: not-allowed;
+}
+/* ============================================= */
+
+/* === RESPONSIVE === */
+
+/* Tablette (max 1024px) */
+@media (max-width: 1024px) {
+    main {
+        padding-inline: 4rem;
+    }
+
+    .texte {
+        margin-inline: 4rem;
+    }
+}
+
+/* Mobile (max 600px) */
+@media (max-width: 600px) {
+    body {
+        font-size: 1rem;
+    }
+
+    main {
+        padding-inline: 1rem;
+        margin-inline: 0;
+    }
+
+    .texte {
+        margin-inline: 0;
+        padding: 1rem;
+    }
+
+    .para {
+        padding-inline: 0.5rem;
+    }
+
+    /* Nav qui se wrap correctement sur petits écrans */
+    header {
+        flex-direction: column;
+    }
+
+    /* Menu déroulant en position static sur mobile
+       pour ne pas déborder hors écran */
+    .bloc-interne {
+        position: static;
+        min-width: unset;
+        width: 100%;
+    }
+
+    .bouton a {
+        display: block;
+        padding: 0.75rem;
+    }
 }
 /* ============================================= */

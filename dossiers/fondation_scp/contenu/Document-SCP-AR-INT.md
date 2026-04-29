@@ -2,7 +2,7 @@
 title: L'agence de renseignement - Intitulé de mission
 ---
 
--> Date: 1125 mois-E.
+-> Date: mois-E 1125.
 -> Numéro du document: SCP-AR-INT
 
 ---
@@ -17,3 +17,4 @@ Le directeur de l'agence à le privilège d'obtenir une accréditation supérieu
 
 ---
 Créé le 22 avril 2026.
+Mis à jour le 29 avril 2026.

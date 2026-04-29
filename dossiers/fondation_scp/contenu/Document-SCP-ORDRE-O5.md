@@ -2,7 +2,7 @@
 title: Ordres du haut commandemant
 ---
 
--> Date: 998 mois-J.
+-> Date: mois-J 998.
 -> Numéro du document: SCP-ORDRE-O5.
 
 ---
@@ -23,3 +23,4 @@ Ordre décrit par le conseil `[Censurée]`.
 
 ---
 Créé le 22 avril 2026.
+Mis à jour le 29 avril 2026.

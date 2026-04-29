@@ -77,4 +77,4 @@ Suite à ce rapport, la MTF Lambda-5 *"White Rabbits"* fut dépêchée pour inve
 
 ---
 Créé le 27 avril 2026.
-Mis à jour le 28 avril.
+Mis à jour le 28 avril 2026.

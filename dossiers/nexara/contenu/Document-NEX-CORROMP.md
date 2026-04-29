@@ -7,7 +7,7 @@ Numéro du document: NEX-CORROMP
 
 ---
 
-## Les éléments et document présentés sont corrompus, une poignées de personne a accès au information. les éléments censuré sont incensurable pour n'importe quels accréditation.
+## Les éléments et document présentés sont corrompus, une poignée de personne a accès au information. les éléments censuré sont incensurable pour n'importe quels accréditation.
 
 Identification du profil:
 > ID: Confirmée.
@@ -26,7 +26,7 @@ Identification du profil:
 > Confirmée.
 >
 > Mot de passe:
-> ******************************************************************************
+> `******************************************************************************`
 > Confirmé.
 >
 > Analyse du document...

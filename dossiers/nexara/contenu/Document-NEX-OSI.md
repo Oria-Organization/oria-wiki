@@ -9,7 +9,7 @@ Bonjour, Je me présente, le premier directeur de l'Organisation secrète impér
 Nous sommes l'O.S.I., une organisation dépendante de l'empire, et notre seul but et de le servir par tout moyen possible, qu'il soit par des meurtres ou des inflitrations sur propriété privés de nos ennemis. Nous sommes au dessus des lois mais n'ayez craintes nous n'en abusons pas. Nos seules mots sont "Devoir, Patrie, Liberté".
 William Gohier.
 
-![Logo de l'organisation secrète impérial](../../../images/image_nexara/logo/organisation/osi.png)
+![Logo de l'organisation secrète impérial](https://oria-organization.github.io/oria-wiki/images/image_nexara/logo/organisation/osi.png)
 
 ---
 Crée le 11 avril 2026.

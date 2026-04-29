@@ -1,0 +1,25 @@
+name: Générer les index.json
+
+on:
+  push:
+    paths:
+      - 'dossiers/**/contenu/*.md'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Cloner le dépôt
+        uses: actions/checkout@v4
+
+      - name: Exécuter le script
+        run: python script.py
+
+      - name: Commit et push si changement
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dossiers/**/contenu/index.json
+          git diff --cached --quiet || git commit -m "auto: mise à jour des index.json"
+          git push

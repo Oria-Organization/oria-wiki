@@ -2,6 +2,8 @@ name: Générer les index.json
 
 on:
   push:
+    branches:
+      - main
     paths:
       - 'dossiers/**/contenu/*.md'
 
@@ -16,10 +18,12 @@ jobs:
       - name: Exécuter le script
         run: python script.py
 
-      - name: Commit et push si changement
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dossiers/**/contenu/index.json
-          git diff --cached --quiet || git commit -m "auto: mise à jour des index.json"
-          git push
+      - name: Créer ou mettre à jour la PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "auto: mise à jour des index.json"
+          branch: auto/update-index
+          title: "auto: mise à jour des index.json"
+          body: "Mise à jour automatique des index.json suite à un ajout ou suppression de document."
+          base: main

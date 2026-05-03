@@ -14,19 +14,19 @@ L'agence de renseignement à les droits sur l'éxécution du personnel représen
 Tout abus de leur pouvoir, et non respect des protocoles d'arrestation d'un personnel, le responsable sera lui même considérer comme menace pour les activités de la fondation SCP et devra être éxécuter.
 
 ## Hiérarchie
-- Directeur de l'agence
+- Directeur de l'agence `[Accred. 5]`
     - Le directeur de l'agence est chargé redistribuer les enquêtes importantes, représente l'agence de renseignement.
-- Directeur adjoint de l'agence
+- Directeur adjoint de l'agence `[Accred. 4]`
     - Le directeur adjoint de l'agence assiste le directeur de l'agence en s'occupant de redistribuer les enquêtes aux superviseur principal et récolte les données lièes aux suivis des missions.
-- Superviseur principal
+- Superviseur principal `[Accred. 4]`
     - Le superviseur principal est chagré de redistribuer les enquêtes à ces superviseur, ils possèdent le pouvoir d'arrêter des directeurs de département, ce qui demande davantage de preuve.
-- Superviseur
+- Superviseur `[Accred. 4]`
     - Le superviseur est chargé d'une mission ou d'une enquête, il peut envoyer des agents sur le terrain pour analyser ou surveiller une installation ou un personnel.
-- Agent expérimenté
+- Agent expérimenté `[Accred. 4]`
     - Le grade de l'agent lui permet d'être responsable de deploiement, il peut arrêter du personnel lambda.
-- Agent
+- Agent `[Accred. 3]`
     - Le grade d'agent permet aux membres de l'agence de procéder à des vérifications du personnel, interrogatorie et autres...
-- Agent junior
+- Agent junior `[Accred. 2]`
     - Le grade de junior, est donné aux membres nouveaux de l'agence de renseignement, il faut au moins être depuis 3 ans environ dans la fondation SCP.
 
 --- 

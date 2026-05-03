@@ -1,5 +1,5 @@
 ---
-title: Information - Haut commandemant
+title: Information - Haut commandement
 ---
 
 Numéro du document: SCP-DEP-HC.
@@ -7,25 +7,33 @@ Numéro du document: SCP-DEP-HC.
 ---
 
 ## Intitulé de mission
-Le haut commandemant est un ordre absolue sur la fondation SCP, aucun membre de cette organisation doit désobéir à leur ordre, sous peine d'être considéré comme traitre.
-Les membres du haut commandemant possède une puissance grande sur le monde, avec l'accord des décisions les plus importantes au sein des installations et des anomalies à risque élevé.
+Le haut commandement représentera l'autorité suprême de la Fondation SCP. Aucun membre de l'organisation ne devra désobéir à ses ordres légitimes, sous peine d'être considéré comme traître aux intérêts de la Fondation.
+
+Ses membres disposeront d'une influence majeure sur les décisions les plus importantes, notamment celles qui concerneront les installations, les anomalies à risque élevé et la protection globale des activités de la Fondation SCP.
+
+## Hiérarchie
+- Conseil O5 `[Accred. 5]`
+    - Le Conseil O5 formera l'instance dirigeante la plus élevée du haut commandement. Ses membres définiront les orientations majeures de la Fondation SCP, valideront les décisions critiques et conserveront une autorité directe sur les sujets les plus sensibles.
+- Émissaire O5 `[Accred. 5]`
+    - L'émissaire O5 représentera un membre O5 précis lorsque celui-ci ne devra pas intervenir directement. Il transmettra ses directives, défendra ses décisions et agira comme relais officiel au sein du haut commandement.
 
 ## Conseil O5
-Le conseil O5 est un conseil regroupant 10 membres allant de la numérotation 1 à 10, leur identité est inconnu au grand public et même pour le personnel accrédité L5.
-Chacun des membres du conseil O5 possède une spécification précise, la voici:
-- O5-0: Réprésentant de la fondation SCP
-- O5-1 : Représentant du conseil
-- O5-2 : Représentant administratif
-- O5-3 : Représentant des forces d’Intervention
-- O5-4 : Représentant des renseignements
-- O5-5 : Représentant de la sécurité
-- O5-6 : Représentant des recherches
-- O5-7 : Représentant de la médecine
-- O5-8 : Représentant de l’ingénierie
-- O5-9 : Porte parole et régulateur du conseil
-- O5-10 : Représentant des activités des installations
+Le Conseil O5 regroupera les autorités numérotées de O5-0 à O5-10. Leur identité restera inconnue du grand public et demeurera protégée même vis-à-vis du personnel accrédité L5, sauf autorisation exceptionnelle.
 
-Note: Chacun des membres possède un émissaire représentant leur O5 respectif, ils font partie eux aussi du haut commandemant.
+Chaque membre possédera une spécialisation précise :
+- O5-0 : Représentant de la Fondation SCP.
+- O5-1 : Représentant du conseil.
+- O5-2 : Représentant administratif.
+- O5-3 : Représentant des forces d'intervention.
+- O5-4 : Représentant des renseignements.
+- O5-5 : Représentant de la sécurité.
+- O5-6 : Représentant des recherches.
+- O5-7 : Représentant de la médecine.
+- O5-8 : Représentant de l'ingénierie.
+- O5-9 : Porte-parole et régulateur du conseil.
+- O5-10 : Représentant des activités des installations.
+
+Note : chaque membre possédera un émissaire chargé de le représenter. Ces émissaires feront eux aussi partie du haut commandement.
 
 ---
-Créé le 29 avril 2026.
+Mis à jour le 03 mai 2026.

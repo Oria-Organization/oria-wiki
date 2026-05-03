@@ -7,69 +7,70 @@ Numéro du document: SCP-DEP-FIM.
 ---
 
 ## Intitulé de mission
-La force d'intervention mobile devra respecter le rôle de sa division, la force d'intervention mobile se mobilisera seulement et seulement si la sécurité locale est incapable de rétablir l'ordre, ou ne peut pas occuper la mission d'une division.
-Certaines divisions ne sont pas obligatoirement spécialisées dans la sécurité ou le confinement.
+La Force d'Intervention Mobile aura pour mission d'intervenir lorsque la sécurité locale ne pourra plus rétablir l'ordre, assurer un confinement ou accomplir la mission spécialisée demandée. Chaque division devra respecter son rôle propre et ne sera mobilisée que lorsque la situation dépassera les moyens ordinaires d'une installation.
 
-## Division
-Les divisions sont répertoriés par rapport à des lettres qui représente leur spécialisation général, et un chiffre représentant une spécialisation unique à celle général. Notons que les chiffres non pas de sens respectif au lettre.
+Certaines divisions ne seront pas nécessairement spécialisées dans la sécurité ou le confinement. Elles pourront répondre à d'autres besoins stratégiques de la Fondation SCP selon leur affectation.
+
+## Divisions
+Les divisions seront répertoriées par une lettre et un chiffre. La lettre représentera la spécialisation générale de la force, tandis que le chiffre indiquera une spécialisation unique à l'intérieur de cette catégorie. Les chiffres n'auront pas de valeur hiérarchique par rapport aux lettres.
 
 ### Liste des spécialisations générales
-- A : Les forces "Alpha" sont prioritère, et son rattaché à un département de la fondation SCP distinctes au commandemant F.I.M..
-- B : Les forces "Bêta" sont spécialisée dans le reconfinement des anomalies.
-- C : Les forces "Gamma" sont des forces d'assauts.
-- D : Les forces "Delta" sont spécialisée dans la défense et l'escorte d'un département.
+- A : Les forces "Alpha" seront prioritaires et rattachées à un département précis de la Fondation SCP, distinct du commandement F.I.M.
+- B : Les forces "Bêta" seront spécialisées dans le reconfinement des anomalies.
+- C : Les forces "Gamma" seront des forces d'assaut, principalement destinées aux opérations offensives ou aux reprises de contrôle.
+- D : Les forces "Delta" seront spécialisées dans la défense et l'escorte d'un département ou d'un personnel important.
 
 ### Liste des spécialisations uniques
-- A-01: La forces d'intervention mobile "Alpha-01" est rattaché aux ordres du haut commandemant, ils opérent sous leurs ordres direct, et doivent être respecté envers tout le personnel.
-- A-02: La force d'intervention mobile "Alpha-02" est rattaché aux ordres de la haute administration, ils opérent sous leurs ordres direct. Sont généralement appelée pour abbatre du personnel demandés.
-- A-03: La force d'intervention mobile "Alpha-03" est assez spéciale, puisqu'elle escorte l'archiviste et son conseil rapproché.
+- A-01 : La Force d'Intervention Mobile "Alpha-01" sera rattachée aux ordres du haut commandement. Elle opérera sous son autorité directe et devra être respectée par l'ensemble du personnel.
+- A-02 : La Force d'Intervention Mobile "Alpha-02" sera rattachée aux ordres de la haute administration. Elle interviendra sous ses ordres directs, notamment pour neutraliser du personnel désigné lorsque l'ordre sera officiellement autorisé.
+- A-03 : La Force d'Intervention Mobile "Alpha-03" sera une unité particulière chargée d'escorter l'archiviste et son conseil rapproché.
 
-- B-01: La force d'intervention mobile "Bêta-01" est une force au reconfinement général des anomalies, ils doivent s'adapter à tout type de situation en cas de brèche. Si une autre force d'intervention plus spécialisé. Ils devront seulement l'assister.
-- B-02: Le force d'intervention mobile "Bêta-02" est la force spécialisé dans le reconfinement d'anomalie de classe keter. Ils possèdent donc des armes lourdes est blindée.
-- B-03: La force d'intervention mobile "Bêta-03" est la force spécialisé dans le reconfinement d'anomalie à risque biologique et environnementaux.
+- B-01 : La Force d'Intervention Mobile "Bêta-01" sera chargée du reconfinement général des anomalies. Elle devra s'adapter à tout type de situation en cas de brèche et assistera les forces plus spécialisées lorsqu'elles seront déployées.
+- B-02 : La Force d'Intervention Mobile "Bêta-02" sera spécialisée dans le reconfinement des anomalies de classe Keter. Elle disposera donc d'armes lourdes et d'équipements blindés adaptés aux interventions les plus dangereuses.
+- B-03 : La Force d'Intervention Mobile "Bêta-03" sera spécialisée dans le reconfinement des anomalies à risques biologiques et environnementaux.
 
-- C-01: La force d'intervention mobile "Gamma-01" opére dans la traque d'ennemis de la fondation SCP, il possède des priviléges élevé afin d'abbatre toute personne n'appartenant pas à la fondation SCP.
-- C-02: La force d'intervention mobile "Gamma-02" doivent se deployer seulement si une installation de la fondation SCP est sous controle ennemi, c'est l'une des forces qui demande le plus de stratégie tactique.
-- C-03: La force d'intervention mobile "Gamma-03" est une force d'assaut lourde, seulement pour le combat. Appelée en cas d'extrême urgence.
+- C-01 : La Force d'Intervention Mobile "Gamma-01" opérera dans la traque des ennemis de la Fondation SCP. Elle possédera des privilèges élevés afin d'abattre ou de neutraliser toute menace extérieure n'appartenant pas à la Fondation SCP, selon les ordres reçus.
+- C-02 : La Force d'Intervention Mobile "Gamma-02" devra se déployer lorsqu'une installation de la Fondation SCP sera sous contrôle ennemi. Cette force exigera une grande maîtrise de la stratégie tactique et de la reprise de site.
+- C-03 : La Force d'Intervention Mobile "Gamma-03" sera une force d'assaut lourde réservée au combat direct. Elle sera appelée uniquement en cas d'extrême urgence.
 
-- D-01: La force d'intervention mobile "Delta-01" est une unité rapproché de l'administration, ils se deployent seulement pour protéger le personnel de l'administration tout grade confondue, ou escorter un membre important.
-- D-02: Afin de mieux protéger les activités de l'agence de renseignement, la force d'intervention mobile "Delta-02" est chargé d'escorter l'agence de renseignement.
-- D-03: La force d'intervention mobile "Delta-03" est une unité chargé d'escorter les membres du commandemant F.I.M..
+- D-01 : La Force d'Intervention Mobile "Delta-01" sera une unité rapprochée de l'administration. Elle se déploiera pour protéger le personnel administratif, tous grades confondus, ou pour escorter un membre important.
+- D-02 : La Force d'Intervention Mobile "Delta-02" sera chargée d'escorter l'agence de renseignement afin de protéger ses activités et ses opérations sensibles.
+- D-03 : La Force d'Intervention Mobile "Delta-03" sera chargée d'escorter les membres du commandement F.I.M.
 
-## Commandemant F.I.M.
-Le commandemant F.I.M. est composé de membre dirigeant tout les divisions, sauf celle étant rattaché aux ordres d'autres département de la fondation SCP. Elle possède une administration départementale gérant leur dossier, qui sont elles mêmes répertoriés sur le centre des données. Nous vous présentons la liste des rangs possibles dans le commandemant.
+## Commandement F.I.M.
+Le commandement F.I.M. regroupera les membres chargés de diriger les divisions, à l'exception de celles qui seront directement rattachées à d'autres départements de la Fondation SCP. Il disposera d'une administration départementale responsable des dossiers F.I.M., lesquels seront répertoriés dans le centre des données.
 
 ### Branche opérationnelle
 - Général des opérations `[Accred. 4]`
-    - Le général des opérations à pour mission de redistribuer les missions aux différentes divisions de la F.I.M., le général ne peut pas participer à ces missions.
+    - Le général des opérations redistribuera les missions aux différentes divisions de la F.I.M. Il ne participera pas directement aux opérations afin de conserver une vision globale, de coordonner les priorités et de garantir que chaque division soit envoyée selon sa spécialisation.
 - Colonel `[Accred. 4]`
-    - Le colonel de la F.I.M. est chargé de gérer la mise en ordre des différentes divisions envers les commandants en chef, il peut révoquer, choisir, ou réprimender un commandant en chef.
-- Lieutenant colonel `[Accred. 4]`
-    - Le lieutenant colonel est chargé d'assister le colonel lors d'absence, il peut prendre ces responsabilités mais avec prévention au colonel.
+    - Le colonel organisera la mise en ordre des divisions auprès des commandants en chef. Il pourra choisir, révoquer ou réprimander un commandant en chef lorsque la discipline, l'efficacité ou la cohérence opérationnelle l'exigera.
+- Lieutenant-colonel `[Accred. 4]`
+    - Le lieutenant-colonel assistera le colonel et pourra reprendre ses responsabilités en cas d'absence. Il devra toutefois prévenir le colonel dès que possible afin de maintenir une chaîne de commandement claire.
 
-### Branche adminisratif
+### Branche administrative
 - Directeur F.I.M. `[Accred. 4]`
-    - Le directeur de la force d'intervention mobile à pour mission de représenter le département, et est chargé de trier les documents importants de la F.I.M., de plus il peut se deployer pour des réunions importantes des politiques pour la F.I.M..
+    - Le directeur F.I.M. représentera le département et triera les documents importants liés à la Force d'Intervention Mobile. Il pourra également participer aux réunions portant sur les politiques F.I.M. et transmettre les décisions administratives au commandement.
 - Directeur adjoint F.I.M. `[Accred. 4]`
-    - Le directeur adjoint de la F.I.M. assiste le directeur en cas d'absence, ou peut participer à des réunions à sa place.
+    - Le directeur adjoint F.I.M. assistera le directeur dans ses responsabilités. Il pourra le remplacer lors d'une absence, participer à des réunions à sa place et assurer le suivi des dossiers prioritaires.
 - Secrétaire F.I.M. `[Accred. 4]`
-    - Le secrétaire de la F.I.M. est chargé de rappoter les documents liées à la force d'intervention mobile pour la direction, il les récupère via ces opérateurs, ou en se deployant avec ces opérateurs.
+    - Le secrétaire F.I.M. rassemblera les documents liés à la Force d'Intervention Mobile pour la direction. Il les obtiendra par l'intermédiaire des opérateurs administratifs ou en se déployant avec eux lorsque la récupération des informations l'exigera.
 - Opérateur administratif F.I.M. `[Accred. 3]`
-    - Les opérateurs sont chargées de trier les documents et mettre à jour le centre des données, peut récupérer des documents relatif à la F.I.M. pour leur mission.
+    - L'opérateur administratif F.I.M. triera les documents, mettra à jour le centre des données et récupérera les informations nécessaires aux missions ou au suivi interne de la Force d'Intervention Mobile.
 
 ## Hiérarchie par spécialisation
 - Commandant en chef `[Accred. 4]`
-    - Le commandant en chef représente une spécialisations générales, il commande l'intégralité des commandants et décide qui l'est ou pas.
+    - Le commandant en chef représentera une spécialisation générale. Il commandera l'ensemble des commandants placés sous cette spécialisation et décidera, selon les besoins du commandement F.I.M., qui pourra occuper ou conserver ce rang.
 - Commandant `[Accred. 4]`
-    - Le commandant est responsable d'une spécialisation unique, il opére en mission, et peut envoyer ces unités sous ordre du commandant en chef.
+    - Le commandant sera responsable d'une spécialisation unique. Il opérera en mission, dirigera ses unités et pourra les envoyer sur ordre du commandant en chef lorsque la situation correspondra à leur rôle.
 - Lieutenant `[Accred. 4]`
-    - Le lieutenant assiste le commandant dans le travail d'une spécialisation.
+    - Le lieutenant assistera le commandant dans la gestion d'une spécialisation. Il encadrera les unités, relaiera les ordres et pourra reprendre la coordination d'une mission si le commandant n'est pas disponible.
 - Sergent `[Accred. 4]`
-    - Le sergent commande des plus petits groupes en mission, il peut gérer les formations.
+    - Le sergent commandera de petits groupes en mission. Il pourra organiser les formations, maintenir la discipline opérationnelle et vérifier que les unités appliquent correctement les consignes de terrain.
 - Opérateur confirmé `[Accred. 3]`
-    - Les opérateurs confirmés, sont des unités qui ont fait leur preuves envers le sergent.
+    - L'opérateur confirmé sera une unité ayant prouvé ses compétences auprès du sergent. Il pourra recevoir des tâches plus sensibles, soutenir les recrues et servir de repère opérationnel lors des déploiements.
 - Recrue `[Accred. 2]`
-    - Nouvelles unités en formation, il peut se deployer, mais seulement si le deploiement est un deploiement de test ou de formation en situation réel.
+    - La recrue sera une nouvelle unité en formation. Elle pourra se déployer uniquement lors d'un test, d'une formation ou d'une situation réelle encadrée, afin d'acquérir l'expérience nécessaire sans compromettre la mission.
 
 ---
-Créé le 01 mai 2026.
+Mis à jour le 03 mai 2026.

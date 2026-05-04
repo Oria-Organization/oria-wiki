@@ -36,4 +36,5 @@ Chaque membre possédera une spécialisation précise :
 Note : chaque membre possédera un émissaire chargé de le représenter. Ces émissaires feront eux aussi partie du haut commandement.
 
 ---
+Créé le 29 avril 2026.
 Mis à jour le 03 mai 2026.

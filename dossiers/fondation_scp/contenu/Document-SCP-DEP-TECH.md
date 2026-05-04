@@ -24,4 +24,4 @@ Le département d'ingénierie et de technologie aura pour mission d'entretenir l
     - Le technicien de 1re classe sera chargé de l'entretien courant du complexe, des locaux et des équipements standards. Il signalera les défaillances, réalisera les réparations de base et soutiendra les ingénieurs lors des interventions plus importantes.
 
 ---
-Mis à jour le 03 mai 2026.
+Créé le 03 mai 2026.

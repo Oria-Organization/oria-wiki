@@ -29,4 +29,5 @@ Le conseil d'administration aura pour rôle de définir la politique des install
     - L'opérateur administratif collectera et classera les informations liées au personnel, aux contrats, aux identités et aux dossiers internes. Son travail garantira la fiabilité des données utilisées par l'administration.
 
 ---
+Créé le 30 avril 2026.
 Mis à jour le 03 mai 2026.

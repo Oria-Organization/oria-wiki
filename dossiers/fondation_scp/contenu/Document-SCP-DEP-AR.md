@@ -31,4 +31,5 @@ En cas d'abus de pouvoir ou de non-respect des protocoles d'arrestation, le resp
     - L'agent junior sera un nouveau membre de l'agence de renseignement. Il devra généralement avoir servi environ trois ans au sein de la Fondation SCP et agira sous encadrement afin d'apprendre les méthodes d'enquête, de contrôle et de surveillance.
 
 ---
+Créé le 02 mai 2026.
 Mis à jour le 03 mai 2026.

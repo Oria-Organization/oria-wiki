@@ -73,4 +73,5 @@ Le commandement F.I.M. regroupera les membres chargés de diriger les divisions,
     - La recrue sera une nouvelle unité en formation. Elle pourra se déployer uniquement lors d'un test, d'une formation ou d'une situation réelle encadrée, afin d'acquérir l'expérience nécessaire sans compromettre la mission.
 
 ---
+Créé le 01 mai 2026.
 Mis à jour le 03 mai 2026.

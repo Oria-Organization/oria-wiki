@@ -1,5 +1,5 @@
 ---
-title: Information - Force d'Intervention Mobile
+title: Information - Force Intervention Mobile
 ---
 
 Numéro du document: SCP-DEP-FIM.
@@ -74,4 +74,4 @@ Le commandement F.I.M. regroupera les membres chargés de diriger les divisions,
 
 ---
 Créé le 01 mai 2026.
-Mis à jour le 03 mai 2026.
+Mis à jour le 05 mai 2026.

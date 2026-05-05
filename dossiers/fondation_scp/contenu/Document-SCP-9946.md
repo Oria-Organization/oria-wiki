@@ -15,7 +15,7 @@ title: SCP - 9946
 
 **SCP-9946-1 :** Entité résidant au sein de SCP-9946-A, se désignant comme Créateur et Seigneur du Monde d'Oria, ainsi qu'Empereur de l'Empire Nexara. SCP-9946-1 posséderait une puissance potentiellement illimitée au sein de sa dimension. Ses intentions semblent orientées vers la matérialisation totale de lui-même et de son Empire dans notre réalité. Si cet objectif venait à être accompli, une reclassification immédiate en Apollyon serait envisagée. Il est à noter qu'aucune procédure de confinement ne doit être tentée sous peine d'anéantissement, selon les directives récupérées au sein de SCP-9946-A.
 
-**Rapport 9946-1 — Découverte initiale :** SCP-9946-A fut découverte lors d'un déplacement involontaire de SCP-507 dans une dimension inconnue. Contrairement aux dimensions habituellement rapportées par SCP-507, celle-ci présentait une cohérence et une stabilité anormalement élevées. À son retour, SCP-507 rapporta avoir été interpelé par une entité se présentant comme "l'Empereur", dont voici la retranscription :
+**Rapport 9946-1 — Découverte initiale :** SCP-9946-A fut découverte lors d'un déplacement involontaire de SCP-507 dans une dimension inconnue. Contrairement aux dimensions habituellement rapportées par SCP-507, celle-ci présentait une cohérence et une stabilité anormalement élevées. À son retour, SCP-507 rapporta avoir été interpellé par une entité se présentant comme "l'Empereur", dont voici la retranscription :
 
 > **SCP-507 :** Je... où suis-je encore cette fois ?
 >
@@ -27,7 +27,7 @@ title: SCP - 9946
 >
 > **SCP-507 :** L'Illusionniste ? C'est qui ça ?
 >
-> **SCP-9946-1 :** Celui qui a créé tout ce que tu vois. Ce monde n'est pour l'instant qu'une illusion. Mais cela ne durera pas. *(ton amical mais ferme)* Retourne dans ton monde. nous te rejoidrons et nous deviendrons réel. Et que rien. Absolument rien. Ne pourra l'en empêcher.
+> **SCP-9946-1 :** Celui qui a créé tout ce que tu vois. Ce monde n'est pour l'instant qu'une illusion. Mais cela ne durera pas. *(ton amical mais ferme)* Retourne dans ton monde. Nous te rejoindrons et nous deviendrons réels. Et que rien. Absolument rien. Ne pourra l'en empêcher.
 
 Suite à ce rapport, la MTF Lambda-5 *"White Rabbits"* fut dépêchée pour investigation approfondie au sein de SCP-9946-A.
 
@@ -37,7 +37,7 @@ Suite à ce rapport, la MTF Lambda-5 *"White Rabbits"* fut dépêchée pour inve
 > **Commandant : Agent `[Non renseigné]`**
 > **Date : 25/12/`[Non renseigné]`**
 >
-> Notre unité a tenté de s'infiltrer dans la Fondation SCP interne à SCP-9946-A. Malgré notre accréditation de niveau 4, la sécurité locale nous a immédiatement interceptés. Nos identités étant inconnues de leurs systèmes, nous n'apparaissions dans aucun registre du personnel de cette Fondation ce qui a instantanément déclenché un renvoie depuis leur douanes.
+> Notre unité a tenté de s'infiltrer dans la Fondation SCP interne à SCP-9946-A. Malgré notre accréditation de niveau 4, la sécurité locale nous a immédiatement interceptés. Nos identités étant inconnues de leurs systèmes, nous n'apparaissions dans aucun registre du personnel de cette Fondation, ce qui a instantanément déclenché un renvoi depuis leurs douanes.
 >
 > Aucune information n'a pu être récupérée lors de cette première tentative.
 >
@@ -55,15 +55,15 @@ Suite à ce rapport, la MTF Lambda-5 *"White Rabbits"* fut dépêchée pour inve
 >
 > L'accès aux archives O5 de la Fondation interne a été obtenu sans incident. Les documents récupérés sont les suivants :
 >
-> **Dossier sur la nature du Monde :** Confirme que l'intégralité de SCP-9946-A n'est qu'une illusion créée par une entité extérieure désignée "l'Illusionniste". Ce document précise explicitement que le monde et tous ses habitants y compris SCP-9946-1 lui-même, ne sont que le fruit d'une imagination.
+> **Dossier sur la nature du Monde :** Confirme que l'intégralité de SCP-9946-A n'est qu'une illusion créée par une entité extérieure désignée "l'Illusionniste". Ce document précise explicitement que le monde et tous ses habitants, y compris SCP-9946-1 lui-même, ne sont que le fruit d'une imagination.
 >
-> **Dossier sur SCP-9946-1 :** Classifié Apollyon et Thaumiel par la Fondation SCP, classification débattue en interne, Apollyon en raison de sa puissance absolue et incontenable au sein de la dimension, Thaumiel car ce qui est dit, l'anomalie soutient le reconfinement d'autre anomalie. Sa volonté de rendre le monde réel étant ce qui maintient la cohésion de la dimension. Le document stipule explicitement qu'aucune procédure de confinement ne doit être tentée sous peine d'anéantissement immédiat par l'anomalie.
+> **Dossier sur SCP-9946-1 :** Classifié Apollyon et Thaumiel par la Fondation SCP, classification débattue en interne, Apollyon en raison de sa puissance absolue et incontenable au sein de la dimension, Thaumiel car selon ce qui est dit, l'anomalie soutient le reconfinement d'autres anomalies. Sa volonté de rendre le monde réel étant ce qui maintient la cohésion de la dimension. Le document stipule explicitement qu'aucune procédure de confinement ne doit être tentée sous peine d'anéantissement immédiat par l'anomalie.
 >
-> **Dossier sur l'Illusionniste :** identité réel inconnu. Aucun dossier trouvés à son nom dans la base de données de la fondation SCP.
+> **Dossier sur l'Illusionniste :** Identité réelle inconnue. Aucun dossier trouvé à son nom dans la base de données de la Fondation SCP.
 >
 > **Recommandation :** Reclassification de SCP-9946 envisagée selon l'évolution de la situation. Surveillance continue recommandée.
 >
-> Agent `[Non renseigné]`, Commandant MTF Lambda-5 "White Rabbits"
+> — Agent `[Non renseigné]`, Commandant MTF Lambda-5 "White Rabbits"
 
 ---
 
@@ -73,8 +73,8 @@ Suite à ce rapport, la MTF Lambda-5 *"White Rabbits"* fut dépêchée pour inve
 >
 > *Un message, joint aux documents transmis, a été écrit au nom de SCP-9946-1 :*
 >
-> *"À la Fondation du monde réel. Vous avez cherché à comprendre ce que vous ne pouviez pas encore voir. Je vous remercie, SCP-507, d'avoir ouvert ce chemin sans le savoir. Le Monde d'Oria n'est plus aussi loin que vous le croyez.*
+> *"À la Fondation du monde réel. Vous avez cherché à comprendre ce que vous ne pouviez pas encore voir. Je vous remercie, SCP-507, d'avoir ouvert ce chemin sans le savoir. Le Monde d'Oria n'est plus aussi loin que vous le croyez."*
 
 ---
 Créé le 27 avril 2026.
-Mis à jour le 28 avril 2026.
+Mis à jour le 05 mai 2026.

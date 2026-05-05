@@ -12,9 +12,11 @@ Tout document soumis ne respectant pas ces directives sera refusé ou supprimé 
 ## I — Ce qu'est un document du centre des données de l'empire
  
 &nbsp;&nbsp;&nbsp;&nbsp;Un document du centre des données de l'empire n'est pas une description extérieure de l'Empire. C'est une **pièce officielle produite par un acteur de l'Empire** : un membre du haut conseil, un président, un scientifique, un commandant militaire ou tout autre citoyen habilité.
-Le lecteur qui consulte ce document ne lit pas une présentation de l'Empire. Il **accède à un document réel**, comme s'il disposait de l'accréditation nécessaire pour l'ouvrir.
+Le lecteur qui consulte ce document ne lit pas une présentation de l'Empire. Il **accède à un document réel**.
 Cette distinction est fondamentale et conditionne l'ensemble des règles qui suivent.
  
+Exception: Certains documents peuvent sembler descriptive, ces documents constituent le pilier fondamental du fonctionnement de l'empire ou des organisations. Vous n'êtes pas l'auteur du site mais seulement de votre document, vous pouvez pas en créer mais seulement soumettre un ou des avis !
+
 ## II — Les quatre questions obligatoires
  
 &nbsp;&nbsp;&nbsp;&nbsp;Avant de rédiger une seule ligne, l'auteur du document doit être en mesure de répondre aux quatre questions suivantes. Un document ne pouvant y répondre clairement ne sera pas accepté dans les archives.
@@ -23,14 +25,16 @@ Cette distinction est fondamentale et conditionne l'ensemble des règles qui sui
 Le rédacteur définit le ton, le niveau de langage et les informations auxquelles il a accès. Un membre du haut conseil ne rédige pas de la même manière qu'un historien.
  
 **2. À quelle date a-t-il été rédigé ?**
-Le rédacteur ne connaît que ce qui s'est produit **avant** la date du document. Il ne prédit pas l'avenir. Il peut exprimer des intentions ou des projections, jamais des certitudes sur des événements non encore survenus.
+Le rédacteur ne connaît que ce qui s'est produit **avant** la date du document. Il ne prédit pas l'avenir. Il peut exprimer des intentions ou des projections, jamais des certitudes sur des événements non encore survenus. 
  
 **3. À qui est-il destiné ?**
-Un décret public n'a pas le même ton qu'un rapport classé CENSURED. La classification du document doit être cohérente avec son contenu et ses destinataires. Voir Document [[Information des classifications]]
+Un décret public n'a pas le même ton qu'un rapport classé CENSURED. La classification du document doit être cohérente avec son contenu et ses destinataires. Voir Document [[Information des classifications]].
  
 **4. Pourquoi a-t-il été rédigé ?**
 Un brevet, une constitution, un compte-rendu de vote ou des documents historiques ont chacun une raison d'exister. Cette raison détermine la structure et le contenu du document.
  
+Note: De plus si vous souhaitez caché la réponse, vous devrez l'expliquer au opérateur du centre des données.
+
 ## III — Les tons selon le type de document
  
 &nbsp;&nbsp;&nbsp;&nbsp;Le ton d'un document est la conséquence directe des quatre questions ci-dessus. Voici les conventions attendues selon le type :
@@ -83,7 +87,7 @@ Exemple conforme :
  
 &nbsp;&nbsp;&nbsp;&nbsp;Tout document soumis au centre des données doit respecter la nomenclature suivante (obligatoire à faire pour le nom du document et non obligatoire dans le contenu):
  
-- `NEX-` → Empire Nexara
+- `NEX-` → Empire Nexara (ou titre celui de l'organisation)
 - `NEX-"Contenu"-` → Sujet
 - `NEX-XXX-"Contenu"` → Sous sujet
 - `NEX-XXX-XXX-"Contenu"` → Numéro du sujet
@@ -104,4 +108,4 @@ Exemple conforme :
 
 ---
 Créé le 07 avril 2026.
-Mis à jour le 26 avril 2026.
+Mis à jour le 05 mai 2026.

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Génère automatiquement index.json pour un dossier contenu/.
-Usage : python generate_index.py
+Usage : python script.py
 Placé à la racine du dépôt, il met à jour les deux index.json.
 """
 

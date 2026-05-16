@@ -2,7 +2,7 @@
 title: Information - Département scientifique
 ---
 
-Numéro du document: SCP-DEP-SC.
+-> Numéro du document: SCP-DEP-SC.
 
 ---
 
@@ -25,3 +25,4 @@ Le département scientifique aura pour mission de comprendre les anomalies afin 
 
 ---
 Créé le 03 mai 2026.
+Mis à jour le 16 mai 2026.

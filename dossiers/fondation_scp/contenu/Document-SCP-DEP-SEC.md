@@ -2,7 +2,7 @@
 title: Information - Département de la sécurité
 ---
 
-Numéro du document: SCP-DEP-SEC.
+-> Numéro du document: SCP-DEP-SEC.
 
 ---
 
@@ -39,3 +39,4 @@ Pour plus d'informations, consulter la [[Division sécuritaire - Sécurité Biol
 
 ---
 Créé le 03 mai 2026.
+Mis à jour le 16 mai 2026.

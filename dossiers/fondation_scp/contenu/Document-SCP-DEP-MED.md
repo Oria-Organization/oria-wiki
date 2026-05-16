@@ -2,16 +2,16 @@
 title: Information - Département médical
 ---
 
-Numéro du document: SCP-DEP-MED.
+-> Numéro du document: SCP-DEP-MED.
 
 ---
 
 ## Intitulé de mission
-Le département médical aura pour mission de répondre aux besoins de santé du personnel de la Fondation SCP, y compris ceux des sujets de test lors des expériences autorisées. Il devra assurer les soins, suivre les dossiers médicaux et élaborer des médicaments sophistiqués afin de protéger la santé des personnes prises en charge.
+Le département médical aura pour mission de répondre aux besoins de santé du personnel de la fondation SCP, y compris ceux des sujets de test lors des expériences autorisées. Il devra assurer les soins, suivre les dossiers médicaux et élaborer des médicaments sophistiqués afin de protéger la santé des personnes prises en charge.
 
 ## Branche directionnelle
 - Directeur médical `[Accred. 4]`
-    - Le directeur médical supervisera l'ensemble des dossiers médicaux du département. Il définira les priorités sanitaires, représentera le service médical auprès des autres directions et veillera à ce que les soins restent conformes aux protocoles de la Fondation SCP.
+    - Le directeur médical supervisera l'ensemble des dossiers médicaux du département. Il définira les priorités sanitaires, représentera le service médical auprès des autres directions et veillera à ce que les soins restent conformes aux protocoles de la fondation SCP.
 - Directeur adjoint médical `[Accred. 4]`
     - Le directeur adjoint médical assistera le directeur dans la gestion du département. Il pourra suivre les dossiers importants, coordonner les équipes médicales et assurer la continuité de la direction en cas d'absence.
 
@@ -33,3 +33,4 @@ Le département médical aura pour mission de répondre aux besoins de santé du
 
 ---
 Créé le 03 mai 2026.
+Mis à jour le 16 mai 2026.

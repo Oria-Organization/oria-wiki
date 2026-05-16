@@ -1,8 +1,9 @@
 ---
 title: Constitution impérial
 ---
-Date de création: 24 mois-B 24 330.
-Numéro du document: NEX-CONS-IMP.
+
+-> Date de création: 24 mois-B 24 330.
+-> Numéro du document: NEX-CONS-IMP.
 
 ---
 
@@ -24,4 +25,4 @@ Numéro du document: NEX-CONS-IMP.
 
 ---
 Créé le 06 avril 2026.
-Mis à jour le 07 avril 2026.
+Mis à jour le 16 mai 2026.

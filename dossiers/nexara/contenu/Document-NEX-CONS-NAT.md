@@ -1,8 +1,9 @@
 ---
 title: Constitution nationale
 ---
-Date de création: 16 mois-R 211.
-Numéro du document: NEX-CONS-NAT.
+
+-> Date de création: 16 mois-R 211.
+-> Numéro du document: NEX-CONS-NAT.
 
 ---
 
@@ -15,4 +16,5 @@ Numéro du document: NEX-CONS-NAT.
 - Article 7: Chaque citoyens peuvent participer au vote démocratique.
 
 ---
-Créé le 6 avril 2026.
+Créé le 06 avril 2026.
+Mis à jour le 16 mai 2026.

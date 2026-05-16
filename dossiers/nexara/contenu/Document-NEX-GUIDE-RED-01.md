@@ -2,16 +2,16 @@
 title: Pour la rédaction des documents
 ---
  
-Numéro du document: NEX-GUIDE-RED-01.
-Auteur: Responsable du centre de données.
+-> Numéro du document: NEX-GUIDE-RED-01.
+-> Auteur: Responsable du centre de données.
 
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;Ce document a été rédigé à l'intention des citoyens souhaitant contribuer à la rédaction du centre des données officiels de l'Empire Nexara. Toute contribution doit respecter les directives ci-dessous afin de garantir la cohérence, la crédibilité et la dignité des documents.
+Ce document a été rédigé à l'intention des citoyens souhaitant contribuer à la rédaction du centre des données officiels de l'Empire Nexara. Toute contribution doit respecter les directives ci-dessous afin de garantir la cohérence, la crédibilité et la dignité des documents.
 Tout document soumis ne respectant pas ces directives sera refusé ou supprimé du centre des données sans préavis.
  
 ## I — Ce qu'est un document du centre des données de l'empire
- 
-&nbsp;&nbsp;&nbsp;&nbsp;Un document du centre des données de l'empire n'est pas une description extérieure de l'Empire. C'est une **pièce officielle produite par un acteur de l'Empire** : un membre du haut conseil, un président, un scientifique, un commandant militaire ou tout autre citoyen habilité.
+
+Un document du centre des données de l'empire n'est pas une description extérieure de l'Empire. C'est une **pièce officielle produite par un acteur de l'Empire** : un membre du haut conseil, un président, un scientifique, un commandant militaire ou tout autre citoyen habilité.
 Le lecteur qui consulte ce document ne lit pas une présentation de l'Empire. Il **accède à un document réel**.
 Cette distinction est fondamentale et conditionne l'ensemble des règles qui suivent.
  
@@ -19,7 +19,7 @@ Exception: Certains documents peuvent sembler descriptive, ces documents constit
 
 ## II — Les quatre questions obligatoires
  
-&nbsp;&nbsp;&nbsp;&nbsp;Avant de rédiger une seule ligne, l'auteur du document doit être en mesure de répondre aux quatre questions suivantes. Un document ne pouvant y répondre clairement ne sera pas accepté dans les archives.
+Avant de rédiger une seule ligne, l'auteur du document doit être en mesure de répondre aux quatre questions suivantes. Un document ne pouvant y répondre clairement ne sera pas accepté dans les archives.
  
 **1. Qui a rédigé ce document ?**
 Le rédacteur définit le ton, le niveau de langage et les informations auxquelles il a accès. Un membre du haut conseil ne rédige pas de la même manière qu'un historien.
@@ -37,7 +37,7 @@ Note: De plus si vous souhaitez caché la réponse, vous devrez l'expliquer au o
 
 ## III — Les tons selon le type de document
  
-&nbsp;&nbsp;&nbsp;&nbsp;Le ton d'un document est la conséquence directe des quatre questions ci-dessus. Voici les conventions attendues selon le type :
+Le ton d'un document est la conséquence directe des quatre questions ci-dessus. Voici les conventions attendues selon le type :
  
 **Solennel et juridique** — Constitutions, décrets, lois.
 Phrases longues et formelles. Aucune émotion visible. Vocabulaire précis et répétitif par souci de clarté juridique. Aucune opinion personnelle.
@@ -60,7 +60,7 @@ Le rédacteur semble neutre mais choisit ce qu'il mentionne ou omet selon les in
  
 ## IV — Les conventions de censure
  
-&nbsp;&nbsp;&nbsp;&nbsp;Un document incomplet ou censuré est plus crédible qu'un document exhaustif. Les documents de l'empire contiennent naturellement des informations inaccessibles selon le niveau d'accréditation du lecteur.
+Un document incomplet ou censuré est plus crédible qu'un document exhaustif. Les documents de l'empire contiennent naturellement des informations inaccessibles selon le niveau d'accréditation du lecteur.
 Les conventions suivantes sont **obligatoires** pour matérialiser toute information manquante :
  
 - `[Supprimé]` — Information effacée après rédaction
@@ -69,12 +69,12 @@ Les conventions suivantes sont **obligatoires** pour matérialiser toute informa
 - `[Inconnu]` — Information jamais consignée
 - `██████` — Identité ou donnée masquée dans les documents officiels
  
-&nbsp;&nbsp;&nbsp;&nbsp;Toute absence d'information doit être **volontaire et matérialisée**. Un vide non justifié sera interprété comme une erreur de rédaction et non comme une censure.
+Toute absence d'information doit être **volontaire et matérialisée**. Un vide non justifié sera interprété comme une erreur de rédaction et non comme une censure.
 Vous pouvez bien évidemment prendre d'autres contenus autres que ceux proposer ci dessus dans qu'il reste entre `["Contenu"]`.
  
 ## V — Cohérence temporelle
  
-&nbsp;&nbsp;&nbsp;&nbsp;Le rédacteur vit dans l'univers. Il ne dispose d'aucun recul extérieur sur les événements futurs.
+Le rédacteur vit dans l'univers. Il ne dispose d'aucun recul extérieur sur les événements futurs.
 Il parle du passé avec certitude, du présent avec précision, et du futur uniquement sous forme d'intention ou de projet.
  
 Exemple non conforme :
@@ -85,7 +85,7 @@ Exemple conforme :
  
 ## VI — Nomenclature des documents
  
-&nbsp;&nbsp;&nbsp;&nbsp;Tout document soumis au centre des données doit respecter la nomenclature suivante (obligatoire à faire pour le nom du document et non obligatoire dans le contenu):
+Tout document soumis au centre des données doit respecter la nomenclature suivante (obligatoire à faire pour le nom du document et non obligatoire dans le contenu):
  
 - `NEX-` → Empire Nexara (ou titre celui de l'organisation)
 - `NEX-"Contenu"-` → Sujet
@@ -95,7 +95,7 @@ Exemple conforme :
  
 ## VII — Checklist avant soumission
  
-&nbsp;&nbsp;&nbsp;&nbsp;Avant toute soumission au centre des données, l'auteur du document est tenu de vérifier chaque point de la liste suivante :
+Avant toute soumission au centre des données, l'auteur du document est tenu de vérifier chaque point de la liste suivante :
  
 - [ ] Les quatre questions obligatoires ont une réponse claire
 - [ ] Le ton est cohérent du début à la fin du document
@@ -108,4 +108,4 @@ Exemple conforme :
 
 ---
 Créé le 07 avril 2026.
-Mis à jour le 05 mai 2026.
+Mis à jour le 16 mai 2026.

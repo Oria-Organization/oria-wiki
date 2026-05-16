@@ -2,8 +2,8 @@
 title: Introduction - Fondation SCP
 ---
 
-Date: 25 mois-Y 989.
-Numéro du document: SCP-01.
+-> Date: 25 mois-Y 989.
+-> Numéro du document: SCP-01.
 
 ---
 
@@ -16,4 +16,4 @@ O5-1 "Le Fondateur".
 
 ---
 Créé le 05 avril 2026.
-Mis à jour le 05 mai 2026.
+Mis à jour le 16 mai 2026.

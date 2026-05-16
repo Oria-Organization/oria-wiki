@@ -2,7 +2,7 @@
 title: Information - Haut commandement
 ---
 
-Numéro du document: SCP-DEP-HC.
+-> Numéro du document: SCP-DEP-HC.
 
 ---
 
@@ -37,4 +37,4 @@ Note : chaque membre possédera un émissaire chargé de le représenter. Ces é
 
 ---
 Créé le 29 avril 2026.
-Mis à jour le 13 mai 2026.
+Mis à jour le 16 mai 2026.

@@ -2,7 +2,7 @@
 title: Information - Agence de renseignement
 ---
 
-Numéro du document: SCP-DEP-AR.
+-> Numéro du document: SCP-DEP-AR.
 
 ---
 
@@ -32,4 +32,4 @@ En cas d'abus de pouvoir ou de non-respect des protocoles d'arrestation, le resp
 
 ---
 Créé le 02 mai 2026.
-Mis à jour le 13 mai 2026.
+Mis à jour le 16 mai 2026.

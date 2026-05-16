@@ -2,7 +2,7 @@
 title: Information - Administration
 ---
 
-Numéro du document: SCP-DEP-AD.
+-> Numéro du document: SCP-DEP-AD.
 
 ---
 
@@ -30,4 +30,4 @@ Le conseil d'administration aura pour rôle de définir la politique des install
 
 ---
 Créé le 30 avril 2026.
-Mis à jour le 03 mai 2026.
+Mis à jour le 16 mai 2026.

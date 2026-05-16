@@ -2,8 +2,8 @@
 title: fichier corrompu
 ---
 
-Date: 23 mois-J 9856.
-Numéro du document: NEX-CORROMP
+-> Date: 23 mois-J 9856.
+-> Numéro du document: NEX-CORROMP
 
 ---
 
@@ -42,3 +42,4 @@ Toute les informations liées au haut conseil sont classifié REDACTED, l'existe
 
 ---
 Créé le 28 avril 2026.
+Mis à jour le 16 mai 2026.

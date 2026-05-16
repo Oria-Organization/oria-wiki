@@ -3,7 +3,7 @@ title: SCP - 9946
 ---
 
 -> Numéro: SCP-9946
--> Classe: Safe
+-> Classe: Aucune classification
 
 ---
 
@@ -55,7 +55,7 @@ Suite à ce rapport, la FIM Lambda-5 "White Rabbits" fut dépêchée afin de men
 >
 > **Recommandation :** Une accréditation de niveau supérieur permettant de contourner entièrement les systèmes d'identification locale sera nécessaire pour toute tentative ultérieure.
 >
-> — Agent `[Non renseigné]`, Commandant MTF Lambda-5 "White Rabbits"
+> Agent `[Non renseigné]`, Commandant MTF Lambda-5 "White Rabbits"
 
 **Rapport 9946-2 :**
 
@@ -63,17 +63,17 @@ Suite à ce rapport, la FIM Lambda-5 "White Rabbits" fut dépêchée afin de men
 > **Commandant : Agent `[Non renseigné]`**
 > **Date : 12/01/`[Non renseigné]`**
 >
-> Suite à l'échec de la première tentative, notre unité est retournée au sein de SCP-9946-A munie d'une accréditation de niveau 5 permettant de passer les contrôles sans être détectés et nous identifiés.
+> Suite à l'échec de la première tentative, l'unité alpha-01 fur deployer au sein de SCP-9946-A munie d'une accréditation de niveau 5 permettant de passer les contrôles sans être détectés et nous identifiés.
 >
 > L'accès aux archives de niveau 5 inférieur de la fondation interne a été obtenu sans incident. Les documents récupérés sont les suivants :
 >
-> [[Document: Information et recherche sur notre monde]]
+> [[Document - Information et recherche sur notre monde]]
 >
-> [[Document: SCP-9946-1]]
+> [[Document - SCP-9946-1]]
 >
 > **Recommandation :** Reclassification de SCP-9946 envisagée selon l'évolution de la situation. Surveillance continue recommandée.
 >
-> — Agent `[Non renseigné]`, Commandant MTF Lambda-5 "White Rabbits"
+> Agent `[Non renseigné]`, Commandant MTF Alpha-01
 
 ---
 
@@ -87,4 +87,4 @@ Suite à ce rapport, la FIM Lambda-5 "White Rabbits" fut dépêchée afin de men
 
 ---
 Créé le 27 avril 2026.
-Mis à jour le 13 mai 2026.
+Mis à jour le 15 mai 2026.

@@ -1,8 +1,9 @@
 ---
 title: Banque productrice de crédit
 ---
-Date: 03 mois-G 1463.
-Numéro du document: NEX-ORG-BANQ.
+
+-> Date: 03 mois-G 1463.
+-> Numéro du document: NEX-ORG-BANQ.
 
 ---
 
@@ -24,3 +25,4 @@ Pour plus d'information sur la banque productrice de crédit, recherchez "BPC" d
 
 ---
 Créé le 09 avril 2026.
+Mis à jour le 16 mai 2026.

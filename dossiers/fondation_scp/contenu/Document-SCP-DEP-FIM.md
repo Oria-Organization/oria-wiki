@@ -2,43 +2,45 @@
 title: Information - Force Intervention Mobile
 ---
 
-Numéro du document: SCP-DEP-FIM.
+-> Numéro du document: SCP-DEP-FIM.
 
 ---
 
 ## Intitulé de mission
 La Force d'Intervention Mobile aura pour mission d'intervenir lorsque la sécurité locale ne pourra plus rétablir l'ordre, assurer un confinement ou accomplir la mission spécialisée demandée. Chaque division devra respecter son rôle propre et ne sera mobilisée que lorsque la situation dépassera les moyens ordinaires d'une installation.
 
-Certaines divisions ne seront pas nécessairement spécialisées dans la sécurité ou le confinement. Elles pourront répondre à d'autres besoins stratégiques de la Fondation SCP selon leur affectation.
+Certaines divisions ne seront pas nécessairement spécialisées dans la sécurité ou le confinement. Elles pourront répondre à d'autres besoins stratégiques de la fondation SCP selon leur affectation.
 
 ## Divisions
 Les divisions seront répertoriées par une lettre et un chiffre. La lettre représentera la spécialisation générale de la force, tandis que le chiffre indiquera une spécialisation unique à l'intérieur de cette catégorie. Les chiffres n'auront pas de valeur hiérarchique par rapport aux lettres.
 
 ### Liste des spécialisations générales
-- A : Les forces "Alpha" seront prioritaires et rattachées à un département précis de la Fondation SCP, distinct du commandement F.I.M.
+- A : Les forces "Alpha" seront prioritaires et rattachées à un département précis de la fondation SCP, distinct du commandement F.I.M.
 - B : Les forces "Bêta" seront spécialisées dans le reconfinement des anomalies.
 - C : Les forces "Gamma" seront des forces d'assaut, principalement destinées aux opérations offensives ou aux reprises de contrôle.
 - D : Les forces "Delta" seront spécialisées dans la défense et l'escorte d'un département ou d'un personnel important.
 
 ### Liste des spécialisations uniques
-- A-01 : La Force d'Intervention Mobile "Alpha-01" sera rattachée aux ordres du haut commandement. Elle opérera sous son autorité directe et devra être respectée par l'ensemble du personnel.
-- A-02 : La Force d'Intervention Mobile "Alpha-02" sera rattachée aux ordres de la haute administration. Elle interviendra sous ses ordres directs, notamment pour neutraliser du personnel désigné lorsque l'ordre sera officiellement autorisé.
-- A-03 : La Force d'Intervention Mobile "Alpha-03" sera une unité particulière chargée d'escorter l'archiviste et son conseil rapproché.
+- A-01 : La force d'intervention mobile "Alpha-01 (Les loyaux)" sera rattachée aux ordres du haut commandement. Elle opérera sous son autorité directe et devra être respectée par l'ensemble du personnel.
+- A-02 : La force d'intervention mobile "Alpha-02" sera rattachée aux ordres de la haute administration. Elle interviendra sous ses ordres directs, notamment pour neutraliser du personnel désigné lorsque l'ordre sera officiellement autorisé.
+- A-03 : La force d'intervention mobile "Alpha-03 (Les conseilliers)" sera une unité particulière chargée d'escorter l'archiviste et son conseil rapproché.
 
-- B-01 : La Force d'Intervention Mobile "Bêta-01" sera chargée du reconfinement général des anomalies. Elle devra s'adapter à tout type de situation en cas de brèche et assistera les forces plus spécialisées lorsqu'elles seront déployées.
-- B-02 : La Force d'Intervention Mobile "Bêta-02" sera spécialisée dans le reconfinement des anomalies de classe Keter. Elle disposera donc d'armes lourdes et d'équipements blindés adaptés aux interventions les plus dangereuses.
-- B-03 : La Force d'Intervention Mobile "Bêta-03" sera spécialisée dans le reconfinement des anomalies à risques biologiques et environnementaux.
+- B-01 : La force d'intervention mobile "Bêta-01 (Renard à 9999 queue)" sera chargée du reconfinement général des anomalies. Elle devra s'adapter à tout type de situation en cas de brèche et assistera les forces plus spécialisées lorsqu'elles seront déployées.
+- B-02 : La force d'intervention mobile "Bêta-02" sera spécialisée dans le reconfinement des anomalies de classe Keter. Elle disposera donc d'armes lourdes et d'équipements blindés adaptés aux interventions les plus dangereuses.
+- B-03 : La force d'intervention mobile "Bêta-03" sera spécialisée dans le reconfinement des anomalies à risques biologiques et environnementaux.
+- B-04: La force d'intervention mobile "Bêta-04 (Les non voyeurs)" est spécialisée dans le reconfinement d'anomalies à risque visuelles, auquel n'importe contacte visuelles peut provoquer des propriétés anormales.
 
-- C-01 : La Force d'Intervention Mobile "Gamma-01" opérera dans la traque des ennemis de la Fondation SCP. Elle possédera des privilèges élevés afin d'abattre ou de neutraliser toute menace extérieure n'appartenant pas à la Fondation SCP, selon les ordres reçus.
-- C-02 : La Force d'Intervention Mobile "Gamma-02" devra se déployer lorsqu'une installation de la Fondation SCP sera sous contrôle ennemi. Cette force exigera une grande maîtrise de la stratégie tactique et de la reprise de site.
-- C-03 : La Force d'Intervention Mobile "Gamma-03" sera une force d'assaut lourde réservée au combat direct. Elle sera appelée uniquement en cas d'extrême urgence.
+- C-01 : La force d'intervention mobile "Gamma-01" opérera dans la traque des ennemis de la fondation SCP. Elle possédera des privilèges élevés afin d'abattre ou de neutraliser toute menace extérieure n'appartenant pas à la fondation SCP, selon les ordres reçus.
+- C-02 : La force d'intervention mobile "Gamma-02" devra se déployer lorsqu'une installation de la fondation SCP sera sous contrôle ennemi. Cette force exigera une grande maîtrise de la stratégie tactique et de la reprise de site.
+- C-03 : La force d'intervention mobile "Gamma-03" sera une force d'assaut lourde réservée au combat direct. Elle sera appelée uniquement en cas d'extrême urgence.
+- C-04 : La force d'intervention mobile "Gamma-04" est une force d'assaut basique représentant l'armé de la fondation SCP, il ne mène que des opérations hors de la fondation SCP.
 
-- D-01 : La Force d'Intervention Mobile "Delta-01" sera une unité rapprochée de l'administration. Elle se déploiera pour protéger le personnel administratif, tous grades confondus, ou pour escorter un membre important.
-- D-02 : La Force d'Intervention Mobile "Delta-02" sera chargée d'escorter l'agence de renseignement afin de protéger ses activités et ses opérations sensibles.
-- D-03 : La Force d'Intervention Mobile "Delta-03" sera chargée d'escorter les membres du commandement F.I.M.
+- D-01 : La force d'intervention mobile "Delta-01" sera une unité rapprochée de l'administration. Elle se déploiera pour protéger le personnel administratif, tous grades confondus, ou pour escorter un membre important.
+- D-02 : La force d'intervention mobile "Delta-02" sera chargée d'escorter l'agence de renseignement afin de protéger ses activités et ses opérations sensibles.
+- D-03 : La force d'intervention mobile "Delta-03" sera chargée d'escorter les membres du commandement F.I.M.
 
 ## Commandement F.I.M.
-Le commandement F.I.M. regroupera les membres chargés de diriger les divisions, à l'exception de celles qui seront directement rattachées à d'autres départements de la Fondation SCP. Il disposera d'une administration départementale responsable des dossiers F.I.M., lesquels seront répertoriés dans le centre des données.
+Le commandement F.I.M. regroupera les membres chargés de diriger les divisions, à l'exception de celles qui seront directement rattachées à d'autres départements de la fondation SCP. Il disposera d'une administration départementale responsable des dossiers F.I.M., lesquels seront répertoriés dans le centre des données.
 
 ### Branche opérationnelle
 - Général des opérations `[Accred. 4]`
@@ -50,13 +52,13 @@ Le commandement F.I.M. regroupera les membres chargés de diriger les divisions,
 
 ### Branche administrative
 - Directeur F.I.M. `[Accred. 4]`
-    - Le directeur F.I.M. représentera le département et triera les documents importants liés à la Force d'Intervention Mobile. Il pourra également participer aux réunions portant sur les politiques F.I.M. et transmettre les décisions administratives au commandement.
+    - Le directeur F.I.M. représentera le département et triera les documents importants liés à la force d'intervention mobile. Il pourra également participer aux réunions portant sur les politiques F.I.M. et transmettre les décisions administratives au commandement.
 - Directeur adjoint F.I.M. `[Accred. 4]`
     - Le directeur adjoint F.I.M. assistera le directeur dans ses responsabilités. Il pourra le remplacer lors d'une absence, participer à des réunions à sa place et assurer le suivi des dossiers prioritaires.
 - Secrétaire F.I.M. `[Accred. 4]`
-    - Le secrétaire F.I.M. rassemblera les documents liés à la Force d'Intervention Mobile pour la direction. Il les obtiendra par l'intermédiaire des opérateurs administratifs ou en se déployant avec eux lorsque la récupération des informations l'exigera.
+    - Le secrétaire F.I.M. rassemblera les documents liés à la force d'intervention mobile pour la direction. Il les obtiendra par l'intermédiaire des opérateurs administratifs ou en se déployant avec eux lorsque la récupération des informations l'exigera.
 - Opérateur administratif F.I.M. `[Accred. 3]`
-    - L'opérateur administratif F.I.M. triera les documents, mettra à jour le centre des données et récupérera les informations nécessaires aux missions ou au suivi interne de la Force d'Intervention Mobile.
+    - L'opérateur administratif F.I.M. triera les documents, mettra à jour le centre des données et récupérera les informations nécessaires aux missions ou au suivi interne de la force d'intervention mobile.
 
 ## Hiérarchie par spécialisation
 - Commandant en chef `[Accred. 4]`
@@ -74,4 +76,4 @@ Le commandement F.I.M. regroupera les membres chargés de diriger les divisions,
 
 ---
 Créé le 01 mai 2026.
-Mis à jour le 05 mai 2026.
+Mis à jour le 16 mai 2026.

@@ -2,7 +2,7 @@
 title: Information - Département d'ingénierie et de technologie
 ---
 
-Numéro du document: SCP-DEP-TECH.
+-> Numéro du document: SCP-DEP-TECH.
 
 ---
 
@@ -25,3 +25,4 @@ Le département d'ingénierie et de technologie aura pour mission d'entretenir l
 
 ---
 Créé le 03 mai 2026.
+Mis à jour le 16 mai 2026.

@@ -64,7 +64,7 @@ Sous ordre de O5-6 l'accès à ces dossiers sont seulement accesible à son équ
 
 ---
 
-## Rapport ORIA-2:
+### Rapport ORIA-2:
 Suite aux précédent rapport, O5-1, O5-6 et l'envoyé de O5-4 se sont spécialement chargé de discuter avec le "pouvoir absolu", les informations liés à la transmission ne sont pas disponible. Ce qu'on peut en conclure, c'est qu'il existerai un être réel gouvernant les décisions du monde "d'Oria" ou plutot de notre monde. Et que l'objectif de Nexus est de `[Supprimée]`.
 
 ---

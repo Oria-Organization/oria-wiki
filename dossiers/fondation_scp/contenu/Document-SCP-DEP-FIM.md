@@ -21,19 +21,19 @@ Les divisions seront répertoriées par une lettre et un chiffre. La lettre repr
 - D : Les forces "Delta" seront spécialisées dans la défense et l'escorte d'un département ou d'un personnel important.
 
 ### Liste des spécialisations uniques
-- A-01 : La force d'intervention mobile "Alpha-01 (Les loyaux)" sera rattachée aux ordres du haut commandement. Elle opérera sous son autorité directe et devra être respectée par l'ensemble du personnel.
+- A-01 : La force d'intervention mobile "Alpha-01" sera rattachée aux ordres du haut commandement. Elle opérera sous son autorité directe et devra être respectée par l'ensemble du personnel.
 - A-02 : La force d'intervention mobile "Alpha-02" sera rattachée aux ordres de la haute administration. Elle interviendra sous ses ordres directs, notamment pour neutraliser du personnel désigné lorsque l'ordre sera officiellement autorisé.
-- A-03 : La force d'intervention mobile "Alpha-03 (Les conseilliers)" sera une unité particulière chargée d'escorter l'archiviste et son conseil rapproché.
+- A-03 : La force d'intervention mobile "Alpha-03 (Archives' defender)" sera une unité particulière chargée d'escorter l'archiviste et son conseil rapproché.
 
-- B-01 : La force d'intervention mobile "Bêta-01 (Renard à 9999 queue)" sera chargée du reconfinement général des anomalies. Elle devra s'adapter à tout type de situation en cas de brèche et assistera les forces plus spécialisées lorsqu'elles seront déployées.
+- B-01 : La force d'intervention mobile "Bêta-01 (Ninety-nine tailed fox)" sera chargée du reconfinement général des anomalies. Elle devra s'adapter à tout type de situation en cas de brèche et assistera les forces plus spécialisées lorsqu'elles seront déployées.
 - B-02 : La force d'intervention mobile "Bêta-02" sera spécialisée dans le reconfinement des anomalies de classe Keter. Elle disposera donc d'armes lourdes et d'équipements blindés adaptés aux interventions les plus dangereuses.
-- B-03 : La force d'intervention mobile "Bêta-03" sera spécialisée dans le reconfinement des anomalies à risques biologiques et environnementaux.
-- B-04: La force d'intervention mobile "Bêta-04 (Les non voyeurs)" est spécialisée dans le reconfinement d'anomalies à risque visuelles, auquel n'importe contacte visuelles peut provoquer des propriétés anormales.
+- B-03 : La force d'intervention mobile "Bêta-03 (Démon des dieux)" sera spécialisée dans le reconfinement des anomalies à risques biologiques et environnementaux.
+- B-04: La force d'intervention mobile "Bêta-04 (Blind ones)" est spécialisée dans le reconfinement d'anomalies à risque visuelles, auquel n'importe contacte visuelles peut provoquer des propriétés anormales envers la personne ou l'anomalie.
 
 - C-01 : La force d'intervention mobile "Gamma-01" opérera dans la traque des ennemis de la fondation SCP. Elle possédera des privilèges élevés afin d'abattre ou de neutraliser toute menace extérieure n'appartenant pas à la fondation SCP, selon les ordres reçus.
 - C-02 : La force d'intervention mobile "Gamma-02" devra se déployer lorsqu'une installation de la fondation SCP sera sous contrôle ennemi. Cette force exigera une grande maîtrise de la stratégie tactique et de la reprise de site.
 - C-03 : La force d'intervention mobile "Gamma-03" sera une force d'assaut lourde réservée au combat direct. Elle sera appelée uniquement en cas d'extrême urgence.
-- C-04 : La force d'intervention mobile "Gamma-04" est une force d'assaut basique représentant l'armé de la fondation SCP, il ne mène que des opérations hors de la fondation SCP.
+- C-04 : La force d'intervention mobile "Gamma-04 (Dompteur de monstres)" est une force d'assaut basique représentant l'armée de la fondation SCP, il ne mène que des opérations hors de la fondation SCP et utilise très souvent l'utilisation d'entitées.
 
 - D-01 : La force d'intervention mobile "Delta-01" sera une unité rapprochée de l'administration. Elle se déploiera pour protéger le personnel administratif, tous grades confondus, ou pour escorter un membre important.
 - D-02 : La force d'intervention mobile "Delta-02" sera chargée d'escorter l'agence de renseignement afin de protéger ses activités et ses opérations sensibles.
@@ -76,4 +76,4 @@ Le commandement F.I.M. regroupera les membres chargés de diriger les divisions,
 
 ---
 Créé le 01 mai 2026.
-Mis à jour le 16 mai 2026.
+Mis à jour le 17 mai 2026.

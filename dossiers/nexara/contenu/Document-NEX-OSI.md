@@ -2,8 +2,8 @@
 title: Organisation Secrète Impérial
 ---
 
--> Date: 05 mois-A 24 330
--> Numéro du document: NEX-OSI
+-> Date: 05 mois-A 24 330.
+-> Numéro du document: NEX-OSI.
 
 ---
 
@@ -15,4 +15,4 @@ William Gohier.
 
 ---
 Crée le 11 avril 2026.
-Mis à jour le 16 mai 2026.
+Mis à jour le 17 mai 2026.
